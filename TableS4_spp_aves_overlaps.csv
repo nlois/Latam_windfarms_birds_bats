@@ -1,0 +1,457 @@
+Species,Order,Family,IUCN conservation status,Turbines density in whole distribution (per pixel ~ 10k km2),WPD>1 with no turbines today (percent of distribution)
+Accipiter gundlachi,Accipitriformes,Accipitridae,Endangered,2.3,0.9
+Acrobatornis fonsecai,Passeriformes,Furnariidae,Vulnerable,0.0,0.0
+Agelaius tricolor,Passeriformes,Icteridae,Endangered,8.7,0.33
+Agelaius xanthomus,Passeriformes,Icteridae,Endangered,10.3,0.5
+Aglaeactis aliciae,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Aglaiocercus berlepschi,Caprimulgiformes,Trochilidae,Endangered,0.0,1.0
+Agriornis albicauda,Passeriformes,Tyrannidae,Vulnerable,2.0,0.2
+Alectrurus risora,Passeriformes,Tyrannidae,Vulnerable,7.4,0.82
+Alectrurus tricolor,Passeriformes,Tyrannidae,Vulnerable,0.5,0.29
+Amazilia alfaroana,Caprimulgiformes,Trochilidae,Critically Endangered,178.0,0.0
+Amazilia boucardi,Caprimulgiformes,Trochilidae,Endangered,49.0,0.0
+Amazilia lilliae,Caprimulgiformes,Trochilidae,Endangered,0.0,0.67
+Amazilia luciae,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Amazona agilis,Psittaciformes,Psittacidae,Endangered,0.0,1.0
+Amazona arausiaca,Psittaciformes,Psittacidae,Vulnerable,0.0,1.0
+Amazona auropalliata,Psittaciformes,Psittacidae,Critically Endangered,52.0,0.21
+Amazona collaria,Psittaciformes,Psittacidae,Vulnerable,0.0,1.0
+Amazona finschi,Psittaciformes,Psittacidae,Endangered,0.0,0.0
+Amazona guildingii,Psittaciformes,Psittacidae,Vulnerable,0.0,1.0
+Amazona imperialis,Psittaciformes,Psittacidae,Critically Endangered,0.0,1.0
+Amazona lilacina,Psittaciformes,Psittacidae,Critically Endangered,2.3,0.0
+Amazona oratrix,Psittaciformes,Psittacidae,Endangered,26.3,0.24
+Amazona pretrei,Psittaciformes,Psittacidae,Vulnerable,9.0,0.78
+Amazona rhodocorytha,Psittaciformes,Psittacidae,Vulnerable,0.8,0.33
+Amazona tucumana,Psittaciformes,Psittacidae,Vulnerable,0.8,0.1
+Amazona ventralis,Psittaciformes,Psittacidae,Vulnerable,11.0,0.5
+Amazona versicolor,Psittaciformes,Psittacidae,Vulnerable,0.0,1.0
+Amazona vinacea,Psittaciformes,Psittacidae,Endangered,4.6,0.48
+Amazona viridigenalis,Psittaciformes,Psittacidae,Endangered,6.2,0.56
+Amazona vittata,Psittaciformes,Psittacidae,Critically Endangered,10.3,0.5
+Ammospiza caudacuta,Passeriformes,Passerellidae,Endangered,0.0,0.83
+Ampelornis griseiceps,Passeriformes,Thamnophilidae,Vulnerable,4.5,0.17
+Anairetes alpinus,Passeriformes,Tyrannidae,Endangered,0.0,0.06
+Anodorhynchus glaucus,Psittaciformes,Psittacidae,Critically Endangered,5.8,0.83
+Anodorhynchus hyacinthinus,Psittaciformes,Psittacidae,Vulnerable,0.1,0.12
+Anodorhynchus leari,Psittaciformes,Psittacidae,Endangered,88.4,0.25
+Anthocephala berlepschi,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Anthocephala floriceps,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.33
+Anthus nattereri,Passeriformes,Motacillidae,Vulnerable,7.1,0.52
+Anthus spragueii,Passeriformes,Motacillidae,Vulnerable,4.5,0.49
+Antilophia bokermanni,Passeriformes,Pipridae,Critically Endangered,0.0,0.0
+Antrostomus noctitherus,Caprimulgiformes,Caprimulgidae,Endangered,12.0,0.5
+Anumara forbesi,Passeriformes,Icteridae,Vulnerable,37.4,0.22
+Aphanotriccus capitalis,Passeriformes,Tyrannidae,Vulnerable,65.2,0.0
+Aphelocoma coerulescens,Passeriformes,Corvidae,Vulnerable,0.0,1.0
+Aphrastura masafuerae,Passeriformes,Furnariidae,Critically Endangered,0.0,1.0
+Ara ambiguus,Psittaciformes,Psittacidae,Critically Endangered,11.1,0.05
+Ara glaucogularis,Psittaciformes,Psittacidae,Critically Endangered,0.0,0.1
+Ara militaris,Gruiformes,Rallidae,Vulnerable,13.9,0.07
+Ara rubrogenys,Psittaciformes,Psittacidae,Vulnerable,4.2,0.0
+Aramides wolfi,Psittaciformes,Psittacidae,Critically Endangered,0.6,0.04
+Aratinga solstitialis,Psittaciformes,Psittacidae,Endangered,0.0,0.1
+Ardea occidentalis,Pelecaniformes,Ardeidae,Endangered,2.1,0.89
+Ardenna creatopus,Procellariiformes,Procellariidae,Vulnerable,2.9,0.34
+Arremon perijanus,Passeriformes,Passerellidae,Vulnerable,0.0,0.0
+Arremon phygas,Passeriformes,Passerellidae,Vulnerable,0.0,1.0
+Asthenes perijana,Passeriformes,Furnariidae,Endangered,0.0,0.0
+Atlapetes blancae,Passeriformes,Passerellidae,Critically Endangered,0.0,0.0
+Attila torridus,Passeriformes,Tyrannidae,Vulnerable,2.7,0.0
+Aulacorhynchus huallagae,Piciformes,Ramphastidae,Endangered,0.0,0.0
+Automolus lammi,Passeriformes,Furnariidae,Endangered,28.1,0.53
+Bangsia aureocincta,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Bangsia flavovirens,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Bangsia melanochlamys,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Basileuterus griseiceps,Passeriformes,Parulidae,Endangered,0.0,1.0
+Basileuterus ignotus,Passeriformes,Parulidae,Vulnerable,0.0,0.0
+Biatas nigropectus,Passeriformes,Thamnophilidae,Vulnerable,0.5,0.31
+Bolborhynchus ferrugineifrons,Psittaciformes,Psittacidae,Vulnerable,0.0,0.0
+Brotogeris pyrrhoptera,Psittaciformes,Psittacidae,Vulnerable,2.2,0.08
+Buteo galapagoensis,Accipitriformes,Accipitridae,Vulnerable,0.8,0.62
+Buteo ridgwayi,Accipitriformes,Accipitridae,Endangered,12.1,0.46
+Buteo ventralis,Accipitriformes,Accipitridae,Vulnerable,4.0,0.92
+Buteogallus coronatus,Accipitriformes,Accipitridae,Critically Endangered,2.1,0.44
+Buteogallus lacernulatus,Accipitriformes,Accipitridae,Vulnerable,32.0,0.31
+Calcarius ornatus,Passeriformes,Calcariidae,Vulnerable,4.9,0.42
+Calyptophilus tertius,Passeriformes,Calyptophilidae,Vulnerable,14.8,0.2
+Calyptura cristata,Passeriformes,Tyrannidae,Critically Endangered,0.0,0.0
+Campephilus imperialis,Piciformes,Picidae,Critically Endangered,8.3,0.01
+Campephilus principalis,Piciformes,Picidae,Critically Endangered,0.0,0.85
+Capito dayi,Piciformes,Capitonidae,Vulnerable,0.0,0.0
+Capito wallacei,Piciformes,Capitonidae,Vulnerable,0.0,0.0
+Carpornis melanocephala,Passeriformes,Cotingidae,Vulnerable,0.6,0.33
+Catharopeza bishopi,Passeriformes,Parulidae,Endangered,0.0,1.0
+Catharus bicknelli,Passeriformes,Turdidae,Vulnerable,4.6,0.61
+Celeus galeatus,Piciformes,Picidae,Vulnerable,2.6,0.67
+Celeus obrieni,Piciformes,Picidae,Vulnerable,0.0,0.04
+Celeus tinnunculus,Piciformes,Picidae,Vulnerable,0.0,0.48
+Cephalopterus glabricollis,Passeriformes,Cotingidae,Endangered,56.8,0.0
+Cephalopterus penduliger,Passeriformes,Cotingidae,Vulnerable,0.8,0.05
+Cercomacra carbonaria,Passeriformes,Thamnophilidae,Critically Endangered,0.0,0.2
+Certhidea olivacea,Passeriformes,Thraupidae,Vulnerable,0.5,0.67
+Chaetocercus berlepschi,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Chaetura andrei,Caprimulgiformes,Apodidae,Vulnerable,0.0,0.32
+Chaetura pelagica,Caprimulgiformes,Apodidae,Vulnerable,4.3,0.34
+Chloropipo flavicapilla,Passeriformes,Pipridae,Vulnerable,0.0,0.0
+Chondrohierax wilsonii,Accipitriformes,Accipitridae,Critically Endangered,2.4,0.89
+Cichlopsis leucogenys,Passeriformes,Turdidae,Endangered,0.8,0.43
+Cinclodes aricomae,Passeriformes,Furnariidae,Critically Endangered,0.0,0.04
+Cinclodes palliatus,Passeriformes,Furnariidae,Critically Endangered,0.0,0.0
+Cinclus schulzii,Passeriformes,Cinclidae,Vulnerable,3.4,0.31
+Cistothorus apolinari,Passeriformes,Troglodytidae,Endangered,0.0,0.0
+Clangula hyemalis,Anseriformes,Anatidae,Vulnerable,0.0,0.6
+Clytoctantes alixii,Passeriformes,Thamnophilidae,Endangered,0.0,0.0
+Clytoctantes atrogularis,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Cnemathraupis aureodorsalis,Passeriformes,Thraupidae,Endangered,0.0,0.0
+Cnipodectes superrufus,Passeriformes,Tyrannidae,Vulnerable,0.0,0.0
+Coccyzus ferrugineus,Cuculiformes,Cuculidae,Vulnerable,0.0,1.0
+Coccyzus rufigularis,Cuculiformes,Cuculidae,Endangered,17.4,0.22
+Coeligena consita,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Coeligena orina,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Coeligena prunellei,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Colaptes fernandinae,Piciformes,Picidae,Endangered,2.4,0.89
+Columbina cyanopis,Columbiformes,Columbidae,Critically Endangered,0.0,0.3
+Conirostrum margaritae,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Conopias cinchoneti,Passeriformes,Tyrannidae,Vulnerable,0.2,0.0
+Conothraupis mesoleuca,Passeriformes,Thraupidae,Endangered,0.0,0.0
+Corvus leucognaphalus,Passeriformes,Corvidae,Vulnerable,10.4,0.52
+Coryphaspiza melanotis,Passeriformes,Thraupidae,Vulnerable,7.4,0.29
+Cotinga maculata,Passeriformes,Cotingidae,Critically Endangered,0.0,0.39
+Cotinga ridgwayi,Passeriformes,Cotingidae,Vulnerable,23.6,0.0
+Cranioleuca henricae,Passeriformes,Furnariidae,Vulnerable,0.0,0.0
+Crax alberti,Galliformes,Cracidae,Critically Endangered,0.0,0.13
+Crax blumenbachii,Galliformes,Cracidae,Endangered,0.7,0.31
+Crax fasciolata,Galliformes,Cracidae,Vulnerable,0.1,0.21
+Crax globulosa,Galliformes,Cracidae,Endangered,0.0,0.02
+Crax pinima,Galliformes,Cracidae,Critically Endangered,0.7,0.13
+Crax rubra,Galliformes,Cracidae,Vulnerable,19.6,0.18
+Culicivora caudacuta,Passeriformes,Tyrannidae,Vulnerable,1.6,0.31
+Cyanolimnas cerverai,Gruiformes,Rallidae,Critically Endangered,0.0,1.0
+Cyanolyca mirabilis,Passeriformes,Corvidae,Vulnerable,0.0,0.0
+Cypseloides niger,Caprimulgiformes,Apodidae,Vulnerable,9.8,0.36
+Cyrtonyx ocellatus,Galliformes,Odontophoridae,Vulnerable,56.6,0.0
+Dacnis berlepschi,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Dacnis hartlaubi,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Dendrocolaptes hoffmannsi,Passeriformes,Furnariidae,Vulnerable,0.0,0.0
+Dendrocolaptes punctipectus,Passeriformes,Furnariidae,Vulnerable,0.0,0.06
+Dendrortyx barbatus,Galliformes,Odontophoridae,Vulnerable,16.7,0.0
+Diglossa venezuelensis,Passeriformes,Thraupidae,Endangered,0.0,1.0
+Diomedea antipodensis,Procellariiformes,Diomedeidae,Endangered,0.0,0.05
+Diomedea dabbenena,Procellariiformes,Diomedeidae,Critically Endangered,1.9,0.14
+Diomedea epomophora,Procellariiformes,Diomedeidae,Vulnerable,0.9,0.2
+Doliornis remseni,Passeriformes,Cotingidae,Vulnerable,1.9,0.0
+Dubusia carrikeri,Passeriformes,Thraupidae,Endangered,0.0,0.5
+Dysithamnus occidentalis,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Dysithamnus plumbeus,Passeriformes,Thamnophilidae,Vulnerable,0.7,0.28
+Elaenia ridleyana,Passeriformes,Tyrannidae,Vulnerable,0.0,1.0
+Electron carinatum,Coraciiformes,Momotidae,Vulnerable,70.7,0.0
+Eleoscytalopus psychopompus,Passeriformes,Rhinocryptidae,Endangered,0.0,0.5
+Eleothreptus anomalus,Caprimulgiformes,Caprimulgidae,Vulnerable,3.1,0.6
+Eleothreptus candicans,Caprimulgiformes,Caprimulgidae,Vulnerable,0.0,0.31
+Eriocnemis godini,Caprimulgiformes,Trochilidae,Critically Endangered,0.0,0.0
+Eriocnemis isabellae,Caprimulgiformes,Trochilidae,Critically Endangered,0.0,0.0
+Eriocnemis nigrivestis,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Euchrepomis sharpei,Passeriformes,Thamnophilidae,Endangered,0.7,0.0
+Eulidia yarrellii,Caprimulgiformes,Trochilidae,Critically Endangered,0.0,0.25
+Euphagus carolinus,Passeriformes,Icteridae,Vulnerable,0.0,0.86
+Eupherusa cyanophrys,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Eupsittula canicularis,Psittaciformes,Psittacidae,Vulnerable,27.6,0.11
+Ferminia cerverai,Passeriformes,Troglodytidae,Endangered,0.0,1.0
+Formicivora erythronotos,Passeriformes,Thamnophilidae,Endangered,0.0,0.5
+Formicivora grantsaui,Passeriformes,Thamnophilidae,Endangered,31.7,0.0
+Formicivora paludicola,Passeriformes,Thamnophilidae,Critically Endangered,0.0,0.0
+Forpus xanthops,Psittaciformes,Psittacidae,Vulnerable,2.8,0.0
+Geositta poeciloptera,Passeriformes,Furnariidae,Vulnerable,6.2,0.18
+Geospiza acutirostris,Passeriformes,Thraupidae,Vulnerable,0.0,1.0
+Geospiza conirostris,Passeriformes,Thraupidae,Vulnerable,0.0,1.0
+Geospiza heliobates,Passeriformes,Thraupidae,Critically Endangered,0.8,0.5
+Geospiza pauper,Passeriformes,Thraupidae,Critically Endangered,0.0,1.0
+Geospiza propinqua,Passeriformes,Thraupidae,Vulnerable,0.0,1.0
+Geospiza psittacula,Passeriformes,Thraupidae,Vulnerable,0.9,0.57
+Geospiza septentrionalis,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Geothlypis beldingi,Passeriformes,Parulidae,Vulnerable,2.0,0.7
+Geothlypis speciosa,Passeriformes,Parulidae,Vulnerable,0.0,0.0
+Geotrygon caniceps,Columbiformes,Columbidae,Vulnerable,2.4,0.89
+Geotrygon leucometopia,Columbiformes,Columbidae,Endangered,16.6,0.0
+Geotrygon purpurata,Columbiformes,Columbidae,Endangered,0.0,0.0
+Glaucidium mooreorum,Strigiformes,Strigidae,Critically Endangered,13.0,0.0
+Glaucidium nubicola,Strigiformes,Strigidae,Vulnerable,1.5,0.0
+Glaucis dohrnii,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.47
+Grallaria alleni,Passeriformes,Grallariidae,Vulnerable,0.0,0.0
+Grallaria chthonia,Passeriformes,Grallariidae,Critically Endangered,0.0,0.0
+Grallaria excelsa,Passeriformes,Grallariidae,Vulnerable,0.0,0.07
+Grallaria fenwickorum,Passeriformes,Grallariidae,Critically Endangered,0.0,0.0
+Grallaria gigantea,Passeriformes,Grallariidae,Vulnerable,0.0,0.0
+Grallaria milleri,Passeriformes,Grallariidae,Vulnerable,0.0,0.0
+Grallaria saltuensis,Passeriformes,Grallariidae,Endangered,0.0,0.0
+Grallaricula cucullata,Passeriformes,Grallariidae,Vulnerable,0.0,0.0
+Grallaricula cumanensis,Passeriformes,Grallariidae,Vulnerable,0.0,1.0
+Grallaricula ochraceifrons,Passeriformes,Grallariidae,Endangered,0.0,0.0
+Grus americana,Gruiformes,Gruidae,Endangered,0.0,0.84
+Guaruba guarouba,Psittaciformes,Psittacidae,Vulnerable,0.3,0.0
+Gubernatrix cristata,Passeriformes,Thraupidae,Endangered,10.5,0.82
+Gymnogyps californianus,Cathartiformes,Cathartidae,Critically Endangered,10.8,0.12
+Gymnorhinus cyanocephalus,Passeriformes,Corvidae,Vulnerable,3.9,0.32
+Hapalopsittaca fuertesi,Psittaciformes,Psittacidae,Endangered,0.0,0.0
+Harpia harpyja,Accipitriformes,Accipitridae,Vulnerable,2.7,0.09
+Hemitriccus furcatus,Passeriformes,Tyrannidae,Vulnerable,1.5,0.27
+Hemitriccus kaempferi,Passeriformes,Tyrannidae,Vulnerable,0.0,0.4
+Henicorhina negreti,Passeriformes,Troglodytidae,Vulnerable,0.0,0.0
+Herpsilochmus axillaris,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Herpsilochmus pectoralis,Passeriformes,Thamnophilidae,Vulnerable,73.9,0.27
+Herpsilochmus pileatus,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.44
+Hesperiphona vespertina,Passeriformes,Fringillidae,Vulnerable,1.5,0.51
+Hydrobates cheimomnestes,Procellariiformes,Hydrobatidae,Vulnerable,0.0,0.19
+Hydrobates homochroa,Procellariiformes,Hydrobatidae,Endangered,2.6,0.77
+Hydrobates leucorhous,Procellariiformes,Hydrobatidae,Vulnerable,1.6,0.19
+Hydrobates macrodactylus,Procellariiformes,Hydrobatidae,Critically Endangered,0.1,0.83
+Hydrobates socorroensis,Procellariiformes,Hydrobatidae,Endangered,0.0,0.3
+Hylonympha macrocerca,Caprimulgiformes,Trochilidae,Endangered,0.0,1.0
+Hylopezus auricularis,Passeriformes,Grallariidae,Vulnerable,0.0,0.0
+Hylorchilus navai,Passeriformes,Troglodytidae,Vulnerable,8.7,0.0
+Hypocnemis ochrogyna,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Hypopyrrhus pyrohypogaster,Passeriformes,Icteridae,Vulnerable,0.0,0.0
+Icterus bonana,Passeriformes,Icteridae,Vulnerable,0.0,1.0
+Icterus laudabilis,Passeriformes,Icteridae,Endangered,0.0,1.0
+Icterus northropi,Passeriformes,Icteridae,Endangered,0.0,1.0
+Icterus oberi,Passeriformes,Icteridae,Vulnerable,0.0,1.0
+Iodopleura pipra,Passeriformes,Tityridae,Endangered,9.4,0.33
+Junco insularis,Passeriformes,Passerellidae,Endangered,0.0,1.0
+Larus fuliginosus,Charadriiformes,Laridae,Vulnerable,0.8,0.62
+Laterallus jamaicensis,Gruiformes,Rallidae,Endangered,7.2,0.55
+Laterallus levraudi,Gruiformes,Rallidae,Vulnerable,0.0,0.4
+Laterallus spilonota,Gruiformes,Rallidae,Vulnerable,1.2,0.6
+Laterallus spilopterus,Gruiformes,Rallidae,Vulnerable,18.2,0.8
+Laterallus tuerosi,Gruiformes,Rallidae,Endangered,0.0,0.0
+Laterallus xenopterus,Gruiformes,Rallidae,Vulnerable,0.0,0.79
+Lathrotriccus griseipectus,Passeriformes,Tyrannidae,Vulnerable,1.4,0.1
+Leistes defilippii,Passeriformes,Icteridae,Vulnerable,32.1,0.64
+Lepidothrix iris,Passeriformes,Pipridae,Vulnerable,0.0,0.04
+Leptasthenura xenothorax,Passeriformes,Furnariidae,Endangered,0.0,0.0
+Leptodon forbesi,Accipitriformes,Accipitridae,Endangered,26.4,0.44
+Leptotila battyi,Columbiformes,Columbidae,Vulnerable,0.0,0.5
+Leptotila ochraceiventris,Columbiformes,Columbidae,Vulnerable,3.0,0.0
+Leptotila wellsi,Columbiformes,Columbidae,Critically Endangered,0.0,1.0
+Leucopeza semperi,Passeriformes,Parulidae,Critically Endangered,0.0,1.0
+Lipaugus conditus,Passeriformes,Cotingidae,Vulnerable,0.0,0.0
+Lipaugus weberi,Passeriformes,Cotingidae,Critically Endangered,0.0,0.0
+Loddigesia mirabilis,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Lophornis brachylophus,Caprimulgiformes,Trochilidae,Critically Endangered,0.0,0.0
+Loxia megaplaga,Passeriformes,Fringillidae,Endangered,13.8,0.17
+Macroagelaius subalaris,Passeriformes,Icteridae,Endangered,0.0,0.0
+Malacoptila minor,Piciformes,Bucconidae,Endangered,17.0,0.1
+Megascops gilesi,Strigiformes,Strigidae,Vulnerable,0.0,0.5
+Melanospiza richardsoni,Passeriformes,Thraupidae,Endangered,0.0,1.0
+Mergus octosetaceus,Anseriformes,Anatidae,Critically Endangered,1.1,0.35
+Metallura baroni,Caprimulgiformes,Trochilidae,Endangered,5.3,0.0
+Metallura iracunda,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Micrastur plumbeus,Falconiformes,Falconidae,Vulnerable,0.0,0.0
+Microspingus alticola,Passeriformes,Thraupidae,Endangered,2.5,0.0
+Mimus graysoni,Passeriformes,Mimidae,Critically Endangered,0.0,1.0
+Mimus macdonaldi,Passeriformes,Mimidae,Vulnerable,0.0,1.0
+Mimus trifasciatus,Passeriformes,Mimidae,Endangered,0.0,1.0
+Myiarchus semirufus,Passeriformes,Tyrannidae,Vulnerable,4.6,0.44
+Myrmoborus lugubris,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Myrmoborus melanurus,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Myrmoderus ruficauda,Passeriformes,Thamnophilidae,Endangered,18.3,0.43
+Myrmotherula klagesi,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Myrmotherula snowi,Passeriformes,Thamnophilidae,Critically Endangered,5.3,0.33
+Myrmotherula surinamensis,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.12
+Myrmotherula urosticta,Passeriformes,Thamnophilidae,Vulnerable,1.1,0.38
+Nemosia rourei,Passeriformes,Thraupidae,Critically Endangered,0.0,0.25
+Neomorphus geoffroyi,Cuculiformes,Cuculidae,Vulnerable,5.7,0.06
+Neomorphus radiolosus,Cuculiformes,Cuculidae,Endangered,0.0,0.0
+Nesofregetta fuliginosa,Procellariiformes,Oceanitidae,Endangered,0.0,0.07
+Odontophorus atrifrons,Galliformes,Odontophoridae,Vulnerable,0.0,0.25
+Odontophorus melanonotus,Galliformes,Odontophoridae,Vulnerable,0.0,0.0
+Odontophorus strophium,Galliformes,Odontophoridae,Vulnerable,0.0,0.0
+Ognorhynchus icterotis,Psittaciformes,Psittacidae,Vulnerable,0.0,0.0
+Onychorhynchus occidentalis,Passeriformes,Tityridae,Vulnerable,1.2,0.08
+Onychorhynchus swainsoni,Passeriformes,Tityridae,Vulnerable,0.0,0.27
+Oreophasis derbianus,Galliformes,Cracidae,Endangered,7.9,0.0
+Oreotrochilus cyanolaemus,Caprimulgiformes,Trochilidae,Critically Endangered,16.0,0.0
+Ortalis erythroptera,Galliformes,Cracidae,Vulnerable,1.8,0.07
+Oxypogon cyanolaemus,Caprimulgiformes,Trochilidae,Critically Endangered,0.0,0.5
+Oxypogon stuebelii,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Pachyramphus spodiurus,Passeriformes,Tityridae,Vulnerable,1.4,0.11
+Paraclaravis geoffroyi,Columbiformes,Columbidae,Critically Endangered,2.2,0.38
+Patagioenas caribaea,Columbiformes,Columbidae,Vulnerable,0.0,1.0
+Pauxi koepckeae,Galliformes,Cracidae,Critically Endangered,0.0,0.0
+Pauxi pauxi,Galliformes,Cracidae,Endangered,0.0,0.2
+Pauxi unicornis,Galliformes,Cracidae,Critically Endangered,2.8,0.0
+Penelope albipennis,Galliformes,Cracidae,Endangered,0.0,0.25
+Penelope jacucaca,Galliformes,Cracidae,Vulnerable,68.8,0.33
+Penelope ochrogaster,Galliformes,Cracidae,Vulnerable,0.0,0.06
+Penelope ortoni,Galliformes,Cracidae,Endangered,0.0,0.05
+Penelope perspicax,Galliformes,Cracidae,Vulnerable,0.0,0.0
+Penelope pileata,Galliformes,Cracidae,Vulnerable,0.1,0.02
+Penelopina nigra,Galliformes,Cracidae,Vulnerable,52.7,0.07
+Percnostola arenarum,Passeriformes,Thamnophilidae,Vulnerable,0.0,0.0
+Phaethornis aethopygus,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Phibalura boliviana,Passeriformes,Cotingidae,Endangered,0.0,0.0
+Phoebastria albatrus,Procellariiformes,Diomedeidae,Vulnerable,0.0,0.56
+Phoebastria irrorata,Procellariiformes,Diomedeidae,Critically Endangered,0.9,0.46
+Phoebetria fusca,Procellariiformes,Diomedeidae,Endangered,1.0,0.07
+Phoenicoparrus andinus,Phoenicopteriformes,Phoenicopteridae,Vulnerable,4.5,0.55
+Phyllomyias urichi,Passeriformes,Tyrannidae,Endangered,0.0,1.0
+Phyllomyias weedeni,Passeriformes,Tyrannidae,Vulnerable,0.0,0.0
+Phylloscartes beckeri,Passeriformes,Tyrannidae,Endangered,50.5,0.12
+Phylloscartes ceciliae,Passeriformes,Tyrannidae,Critically Endangered,81.5,0.5
+Phylloscartes roquettei,Passeriformes,Tyrannidae,Endangered,25.8,0.17
+Picumnus steindachneri,Piciformes,Picidae,Endangered,3.5,0.0
+Picumnus varzeae,Piciformes,Picidae,Endangered,0.0,0.0
+Pionites leucogaster,Psittaciformes,Psittacidae,Vulnerable,0.1,0.02
+Pionus reichenowi,Psittaciformes,Psittacidae,Vulnerable,0.8,0.54
+Pipile cujubi,Galliformes,Cracidae,Vulnerable,0.0,0.03
+Pipile jacutinga,Galliformes,Cracidae,Endangered,3.9,0.53
+Pipile pipile,Galliformes,Cracidae,Critically Endangered,0.0,1.0
+Pipilo socorroensis,Passeriformes,Passerellidae,Endangered,0.0,1.0
+Platyrinchus leucoryphus,Passeriformes,Tyrannidae,Vulnerable,3.4,0.54
+Podiceps auritus,Podicipediformes,Podicipedidae,Vulnerable,0.6,0.84
+Podiceps gallardoi,Podicipediformes,Podicipedidae,Critically Endangered,0.2,0.96
+Podiceps taczanowskii,Podicipediformes,Podicipedidae,Endangered,0.0,0.0
+Poecilotriccus luluae,Passeriformes,Tyrannidae,Endangered,0.0,0.0
+Pogonotriccus lanyoni,Passeriformes,Tyrannidae,Endangered,0.0,0.0
+Poospiza baeri,Passeriformes,Thraupidae,Vulnerable,4.9,0.33
+Poospiza rubecula,Passeriformes,Thraupidae,Endangered,0.1,0.0
+Premnoplex pariae,Passeriformes,Furnariidae,Endangered,0.0,1.0
+Premnoplex tatei,Passeriformes,Furnariidae,Endangered,0.0,1.0
+Primolius couloni,Psittaciformes,Psittacidae,Vulnerable,0.0,0.0
+Procellaria aequinoctialis,Procellariiformes,Procellariidae,Vulnerable,0.9,0.19
+Procellaria conspicillata,Procellariiformes,Procellariidae,Vulnerable,2.3,0.17
+Procellaria parkinsoni,Procellariiformes,Procellariidae,Vulnerable,0.2,0.16
+Procellaria westlandica,Procellariiformes,Procellariidae,Endangered,0.4,0.24
+Procnias tricarunculatus,Passeriformes,Cotingidae,Vulnerable,20.2,0.1
+Progne modesta,Passeriformes,Hirundinidae,Endangered,0.9,0.57
+Progne sinaloae,Passeriformes,Hirundinidae,Vulnerable,0.0,0.0
+Psarocolius cassini,Passeriformes,Icteridae,Vulnerable,0.0,0.0
+Pselliophorus luteoviridis,Passeriformes,Passerellidae,Vulnerable,42.7,0.0
+Pseudastur occidentalis,Accipitriformes,Accipitridae,Endangered,2.7,0.0
+Psittacara chloropterus,Psittaciformes,Psittacidae,Vulnerable,10.5,0.53
+Psittacara euops,Psittaciformes,Psittacidae,Vulnerable,2.4,0.87
+Psophia dextralis,Gruiformes,Psophiidae,Endangered,0.1,0.0
+Psophia obscura,Gruiformes,Psophiidae,Critically Endangered,0.0,0.13
+Psophia viridis,Gruiformes,Psophiidae,Vulnerable,0.0,0.0
+Pterodroma arminjoniana,Procellariiformes,Procellariidae,Vulnerable,0.0,0.12
+Pterodroma axillaris,Procellariiformes,Procellariidae,Vulnerable,0.1,0.11
+Pterodroma cahow,Procellariiformes,Procellariidae,Endangered,0.0,0.2
+Pterodroma cervicalis,Procellariiformes,Procellariidae,Vulnerable,0.0,0.18
+Pterodroma cookii,Procellariiformes,Procellariidae,Vulnerable,0.3,0.15
+Pterodroma defilippiana,Procellariiformes,Procellariidae,Vulnerable,0.0,0.21
+Pterodroma deserta,Procellariiformes,Procellariidae,Vulnerable,2.0,0.17
+Pterodroma externa,Procellariiformes,Procellariidae,Vulnerable,0.4,0.13
+Pterodroma hasitata,Procellariiformes,Procellariidae,Endangered,0.4,0.46
+Pterodroma incerta,Procellariiformes,Procellariidae,Endangered,1.6,0.2
+Pterodroma leucoptera,Procellariiformes,Procellariidae,Vulnerable,0.0,0.07
+Pterodroma longirostris,Procellariiformes,Procellariidae,Vulnerable,0.2,0.09
+Pterodroma pycrofti,Procellariiformes,Procellariidae,Vulnerable,0.0,0.0
+Pteroglossus bitorquatus,Piciformes,Ramphastidae,Endangered,0.4,0.05
+Puffinus auricularis,Procellariiformes,Procellariidae,Critically Endangered,0.1,0.27
+Pyriglena atra,Passeriformes,Thamnophilidae,Endangered,0.0,0.5
+Pyrocephalus nanus,Passeriformes,Tyrannidae,Vulnerable,0.4,0.57
+Pyrrhura albipectus,Psittaciformes,Psittacidae,Vulnerable,3.9,0.0
+Pyrrhura caeruleiceps,Psittaciformes,Psittacidae,Endangered,0.0,0.0
+Pyrrhura calliptera,Psittaciformes,Psittacidae,Vulnerable,0.0,0.0
+Pyrrhura chapmani,Psittaciformes,Psittacidae,Vulnerable,0.0,0.0
+Pyrrhura cruentata,Psittaciformes,Psittacidae,Vulnerable,2.1,0.34
+Pyrrhura eisenmanni,Psittaciformes,Psittacidae,Vulnerable,0.0,1.0
+Pyrrhura griseipectus,Psittaciformes,Psittacidae,Endangered,32.4,0.12
+Pyrrhura lepida,Psittaciformes,Psittacidae,Vulnerable,0.2,0.08
+Pyrrhura leucotis,Psittaciformes,Psittacidae,Vulnerable,0.4,0.22
+Pyrrhura orcesi,Psittaciformes,Psittacidae,Endangered,8.0,0.0
+Pyrrhura pfrimeri,Psittaciformes,Psittacidae,Endangered,0.0,0.25
+Pyrrhura subandina,Psittaciformes,Psittacidae,Critically Endangered,0.0,0.0
+Pyrrhura viridicata,Psittaciformes,Psittacidae,Endangered,0.0,0.67
+Rallus antarcticus,Gruiformes,Rallidae,Vulnerable,7.5,0.8
+Rallus wetmorei,Gruiformes,Rallidae,Endangered,0.0,0.5
+Ramphocinclus brachyurus,Passeriformes,Mimidae,Endangered,0.0,1.0
+Ramphomicron dorsale,Caprimulgiformes,Trochilidae,Endangered,0.0,0.5
+Rhegmatorhina gymnops,Passeriformes,Thamnophilidae,Vulnerable,0.4,0.0
+Rhopornis ardesiacus,Passeriformes,Thamnophilidae,Endangered,9.0,0.2
+Rhynchopsitta pachyrhyncha,Psittaciformes,Psittacidae,Endangered,0.0,0.0
+Rhynchopsitta terrisi,Psittaciformes,Psittacidae,Endangered,1.0,0.12
+Rissa tridactyla,Charadriiformes,Laridae,Vulnerable,0.0,0.47
+Rollandia microptera,Podicipediformes,Podicipedidae,Endangered,0.0,0.23
+Sclerurus cearensis,Passeriformes,Furnariidae,Vulnerable,82.8,0.31
+Scytalopus diamantinensis,Passeriformes,Rhinocryptidae,Endangered,93.5,0.0
+Scytalopus gonzagai,Passeriformes,Rhinocryptidae,Endangered,0.0,0.33
+Scytalopus iraiensis,Passeriformes,Rhinocryptidae,Endangered,24.7,0.18
+Scytalopus novacapitalis,Passeriformes,Rhinocryptidae,Endangered,0.0,0.05
+Scytalopus robbinsi,Passeriformes,Rhinocryptidae,Endangered,8.0,0.0
+Scytalopus rodriguezi,Passeriformes,Rhinocryptidae,Endangered,0.0,0.0
+Selasphorus ardens,Caprimulgiformes,Trochilidae,Endangered,0.0,0.0
+Sephanoides fernandensis,Caprimulgiformes,Trochilidae,Critically Endangered,0.0,1.0
+Sericossypha albocristata,Passeriformes,Thraupidae,Vulnerable,0.9,0.0
+Setophaga angelae,Passeriformes,Parulidae,Endangered,6.0,0.33
+Setophaga chrysoparia,Passeriformes,Parulidae,Endangered,24.7,0.37
+Setophaga flavescens,Passeriformes,Parulidae,Endangered,0.0,1.0
+Setophaga subita,Passeriformes,Parulidae,Vulnerable,0.0,1.0
+Sitta insularis,Passeriformes,Sittidae,Critically Endangered,0.0,1.0
+Spinus cucullatus,Passeriformes,Fringillidae,Endangered,3.2,0.56
+Spinus yarrellii,Passeriformes,Fringillidae,Vulnerable,36.8,0.28
+Spizaetus isidori,Accipitriformes,Accipitridae,Endangered,0.5,0.05
+Spizella wortheni,Passeriformes,Passerellidae,Endangered,45.5,0.17
+Sporophila beltoni,Passeriformes,Thraupidae,Vulnerable,11.0,0.21
+Sporophila cinnamomea,Passeriformes,Thraupidae,Vulnerable,5.6,0.42
+Sporophila falcirostris,Passeriformes,Thraupidae,Vulnerable,0.3,0.41
+Sporophila frontalis,Passeriformes,Thraupidae,Vulnerable,4.1,0.33
+Sporophila iberaensis,Passeriformes,Thraupidae,Endangered,0.0,1.0
+Sporophila maximiliani,Passeriformes,Thraupidae,Endangered,0.1,0.2
+Sporophila nigrorufa,Passeriformes,Thraupidae,Vulnerable,0.0,0.12
+Sporophila palustris,Passeriformes,Thraupidae,Endangered,4.4,0.46
+Starnoenas cyanocephala,Columbiformes,Columbidae,Endangered,2.4,0.87
+Sternula lorata,Charadriiformes,Laridae,Endangered,3.1,0.62
+Synallaxis courseni,Passeriformes,Furnariidae,Vulnerable,0.0,0.0
+Synallaxis infuscata,Passeriformes,Furnariidae,Endangered,41.5,0.38
+Synallaxis kollari,Passeriformes,Furnariidae,Critically Endangered,0.0,0.67
+Synallaxis maranonica,Passeriformes,Furnariidae,Critically Endangered,2.8,0.0
+Synallaxis tithys,Passeriformes,Furnariidae,Vulnerable,2.7,0.0
+Synallaxis zimmeri,Passeriformes,Furnariidae,Vulnerable,0.2,0.0
+Syndactyla ruficollis,Passeriformes,Furnariidae,Vulnerable,5.8,0.1
+Synthliboramphus craveri,Charadriiformes,Alcidae,Vulnerable,1.2,0.68
+Synthliboramphus hypoleucus,Charadriiformes,Alcidae,Endangered,1.4,0.83
+Synthliboramphus scrippsi,Charadriiformes,Alcidae,Vulnerable,1.8,0.84
+Tachycineta cyaneoviridis,Passeriformes,Hirundinidae,Endangered,0.0,1.0
+Tachycineta euchrysea,Passeriformes,Hirundinidae,Vulnerable,13.1,0.42
+Tachyeres leucocephalus,Anseriformes,Anatidae,Vulnerable,19.5,0.68
+Tangara argyrofenges,Passeriformes,Thraupidae,Vulnerable,1.7,0.04
+Tangara cabanisi,Passeriformes,Thraupidae,Vulnerable,3.8,0.0
+Tangara fastuosa,Passeriformes,Thraupidae,Vulnerable,36.9,0.44
+Tangara peruviana,Passeriformes,Thraupidae,Vulnerable,2.3,0.35
+Taphrolesbia griseiventris,Caprimulgiformes,Trochilidae,Endangered,7.4,0.0
+Tephrophilus wetmorei,Passeriformes,Thraupidae,Vulnerable,1.9,0.0
+Terenura sicki,Passeriformes,Thamnophilidae,Critically Endangered,4.0,0.5
+Thalassarche chlororhynchos,Procellariiformes,Diomedeidae,Endangered,1.6,0.13
+Thalassarche chrysostoma,Procellariiformes,Diomedeidae,Endangered,0.7,0.16
+Thalassarche eremita,Procellariiformes,Diomedeidae,Vulnerable,0.4,0.14
+Thalassarche salvini,Procellariiformes,Diomedeidae,Vulnerable,0.5,0.16
+Thalurania ridgwayi,Caprimulgiformes,Trochilidae,Vulnerable,0.0,0.0
+Thamnophilus shumbae,Passeriformes,Thamnophilidae,Vulnerable,7.0,0.0
+Thamnophilus tenuepunctatus,Passeriformes,Thamnophilidae,Vulnerable,0.9,0.0
+Thripophaga amacurensis,Passeriformes,Furnariidae,Vulnerable,0.0,0.0
+Thripophaga cherriei,Passeriformes,Furnariidae,Vulnerable,0.0,0.0
+Thripophaga macroura,Passeriformes,Furnariidae,Vulnerable,0.6,0.4
+Thryophilus nicefori,Passeriformes,Troglodytidae,Critically Endangered,0.0,0.0
+Thryophilus sernai,Passeriformes,Troglodytidae,Vulnerable,0.0,0.0
+Touit surdus,Psittaciformes,Psittacidae,Vulnerable,11.8,0.39
+Toxostoma bendirei,Passeriformes,Mimidae,Vulnerable,0.0,0.29
+Toxostoma guttatum,Passeriformes,Mimidae,Critically Endangered,0.0,1.0
+Troglodytes monticola,Passeriformes,Troglodytidae,Critically Endangered,0.0,0.5
+Troglodytes tanneri,Passeriformes,Troglodytidae,Vulnerable,0.0,1.0
+Turdus swalesi,Passeriformes,Turdidae,Vulnerable,16.6,0.0
+Tympanuchus pallidicinctus,Galliformes,Phasianidae,Vulnerable,0.0,0.96
+Tyrannus cubensis,Passeriformes,Tyrannidae,Endangered,2.2,0.88
+Vireo caribaeus,Passeriformes,Vireonidae,Vulnerable,0.0,1.0
+Vultur gryphus,Cathartiformes,Cathartidae,Vulnerable,4.9,0.56
+Wetmorethraupis sterrhopteron,Passeriformes,Thraupidae,Vulnerable,0.0,0.0
+Xanthopsar flavus,Passeriformes,Icteridae,Endangered,10.5,0.79
+Xenoglaux loweryi,Strigiformes,Strigidae,Vulnerable,0.0,0.0
+Xenoligea montana,Passeriformes,Phaenicophilidae,Vulnerable,11.9,0.14
+Xenospiza baileyi,Passeriformes,Passerellidae,Endangered,20.3,0.0
+Xiphocolaptes falcirostris,Passeriformes,Furnariidae,Vulnerable,28.7,0.31
+Xipholena atropurpurea,Passeriformes,Cotingidae,Vulnerable,14.3,0.41
+Xolmis dominicanus,Passeriformes,Tyrannidae,Vulnerable,20.2,0.64
+Zaratornis stresemanni,Passeriformes,Cotingidae,Vulnerable,0.0,0.18
+Zentrygon carrikeri,Columbiformes,Columbidae,Endangered,0.0,1.0
+Zimmerius cinereicapilla,Passeriformes,Tyrannidae,Vulnerable,0.3,0.0
