@@ -1,0 +1,858 @@
+Lat,Lon,Country,Capacity (MW),Wind turbine number,,Name,Stage
+-42.40159053,-69.27920433,Argentina,1350,NA,,Central Eolica Gastre,En construccion
+-42.68384,-65.31628,Argentina,150,42,,Parque Eolico Puerto Madryn II,Operativo
+-38.85763889,-68.88630556,Argentina,125,50,,Los Meandros,En construccion
+-37.142972,-59.7715,Argentina,123,32,,Los Teros I,Operativo
+-46.592444,-67.648611,Argentina,121.8,29,,Caadon Leon,En construccion
+-38.222472,-58.138806,Argentina,100.8,24,,Fray Gen,En construccion
+-39.755444,-69.737306,Argentina,100.5,29,,Vientos Neuquinos,Operativo
+-38.30557327,-68.75152504,Argentina,100,NA,,Parque Eolico Aelo II,Indeterminado
+-38.35704814,-68.61883239,Argentina,100,NA,,Parque Eolico Aelo I,Indeterminado
+-28.6684,-66.7524,Argentina,100,38,,Parque Eolico Arauco Sapem II,Operativo
+-47.28167,-67.0227,Argentina,100,30,,Parque Eolico Del Bicentenario I,Operativo
+-38.67412226,-62.03765941,Argentina,100,29,,Parque Eolico Corti I,Operativo
+-38.304778,-62.243222,Argentina,100,27,,El Mataco I y San Jorgue (tambien llamado Tres Picos),Operativo
+-39.55923,-65.7414,Argentina,100,26,,Parque Eolico Pomona I,Operativo
+-38.346639,-62.309917,Argentina,100,24,,El Mataco I y San Jorgue (tambien llamado Tres Picos),Operativo
+-38.63269012,-62.71324747,Argentina,99,32,,Parque Eolico La Castellana,Operativo
+-45.65424,-67.78497,Argentina,99,30,,Parque Eolico Manantiales Behr,Operativo
+-38.210028,-58.028972,Argentina,98.6,29,,Miramar,Operativo
+-46.63425,-68.3925,Argentina,97.2,27,,Los Hercules,Operativo
+-38.572,-61.9455,Argentina,86.62,21,,Parque Eolico La Genoveva I,Operativo
+-42.585806,-65.158417,Argentina,83.2,19,,Chubut Norte IV,En construccion
+-38.3621,-62.2249,Argentina,79.8,25,,Parque Eolico Energetica I (Tambien llamado Vientos Bonaerenses),Operativo
+-33.2311,-65.0725,Argentina,79.8,21,,Parque Eolico Budweiser (Achiras II),Operativo
+-42.69497,-65.22211,Argentina,70,20,,Parque Eolico Puerto Madryn I,Operativo
+-42.624611,-65.278083,Argentina,61.2,17,,El Lano II,En construccion
+-37.53789,-64.64749,Argentina,60,NA,,Parque Eolico General Acha,En construccion
+-33.236361,-65.054611,Argentina,57,15,,Manque,En construccion
+-42.585806,-65.158417,Argentina,56.9,13,,Chubut Norte III,En construccion
+-40.00920087,-62.64865569,Argentina,54,16,,Parque Eolico Villalonga,Operativo
+-42.624611,-65.278083,Argentina,53.2,14,,El Lano III,En construccion
+-38.752583,-61.785472,Argentina,53.2,14,,Pampa III (tmb llamado de la Bahia),Operativo
+-38.69216,-62.00005,Argentina,53,14,,Parque Eolico Pampa Energia II,Operativo
+-28.715028,-66.744861,Argentina,52,26,,Arauco IV,Operativo
+-37.1,-59.83675,Argentina,52,13,,Los Teros II,Operativo
+-43.021194,-65.210167,Argentina,51.2,16,,Loma Blanca II,Operativo
+-43.049417,-65.164,Argentina,51.2,16,,Loma Blanca III,Operativo
+-43.013722,-65.129944,Argentina,51.2,16,,Loma Blanca I,Operativo
+-43.0907,-65.2298,Argentina,51,17,,Parque Eolico Loma Blanca IV,Operativo
+-44.980389,-67.055944,Argentina,50.4,14,,Malaspina,Operativo
+-42.624611,-65.278083,Argentina,50.4,14,,El Lano,Operativo
+-42.6342,-65.2716,Argentina,50.4,14,,Parque Eolico Aluar Etapa I,Operativo
+-39.21428,-62.5674,Argentina,50,20,,Parque Eolico Vientos del Secano,Operativo
+-43.3522,-65.1734,Argentina,48.6,27,,Parque Eolico Rawson I,Operativo
+-33.2082,-65.09007,Argentina,48,15,,Parque Eolico Achiras,Operativo
+-38.5263,-61.9243,Argentina,41.8,11,,Parque Eolico La Genoveva II,Operativo
+-38.6131,-58.8242,Argentina,38,11,,Parque Eolico Vientos de Necochea,Operativo
+-37.48588,-64.76316,Argentina,36.75,11,,Parque Eolico La Banderita,Operativo
+-43.3522,-65.1734,Argentina,28.8,16,,Parque Eolico Rawson II,Operativo
+-42.5869907,-65.15766277,Argentina,28.35,8,,Parque Eolico Chubut Norte I,Operativo
+-45.7458,-67.6953,Argentina,27.6,9,,Parque Eolico Diadema II,Operativo
+-42.585806,-65.158417,Argentina,26.3,6,,Chubut Norte II,Operativo
+-28.697694,-66.757889,Argentina,25.2,12,,Arauco III,Operativo
+-28.6684,-66.7524,Argentina,25.2,12,,Parque Eolico Arauco Sapem I,Operativo
+-47.31623,-66.97038,Argentina,25.2,5,,Parque Eolico Del Bicentenario II,Operativo
+-44.5552294,-66.48117294,Argentina,24.15,7,,Parque Eolico Garayalde,Operativo
+-43.37672,-65.18929,Argentina,24,12,,Parque Eolico Rawson III,Operativo
+-33.213661,-65.062283,Argentina,22.8,6,,Los Olivos,En construccion
+-45.809139,-68.057361,Argentina,20.4,6,,Kosten parte 2,Operativo
+-38.34568,-62.20986,Argentina,19.15,5,,Parque Eolico Energetica I - Fase II (Tambien llamado Vientos Bonaerenses),Operativo
+-45.8467,-67.4964,Argentina,16.56,18,,Parque Eolico Antonio Moran,Operativo
+-38.6178,-62.76278,Argentina,14.4,4,,Parque Eolico La Castellana II,Operativo
+-39.60256,-65.77978,Argentina,11.7,3,,Parque Eolico Pomona II,Operativo
+-38.40804783,-62.27025363,Argentina,10,4,,Parque Eolico Garcia del Rio,Operativo
+-29.4182,-63.71044,Argentina,8,4,,Parque Eolico El Jume,Operativo
+-45.74583,-67.69508,Argentina,6.3,7,,Parque Eolico Diadema ,Operativo
+-45.809139,-68.057361,Argentina,3.6,1,,Kosten parte 1,Operativo
+-40.03987,-62.65965,Argentina,3.45,NA,,Parque Eolico Villalonga II,Operativo
+-45.8507,-67.9081,Argentina,3,2,,Parque Eolico El Tordillo,Operativo
+-46.806972,-67.981083,Argentina,2.4,4,,Parque Eolico Jorge Romanutti (Tmb llamado Pico Truncado),Operativo
+-39.2291,-62.6497,Argentina,2.2,2,,Parque Eolico Mayor Buratovich,Operativo
+-38.7833,-61.8984,Argentina,1.8,4,,Punta Alta - Centenario,Operativo
+-35.977972,-57.448722,Argentina,1.5,1,,Cerro de la Gloria,En construccion
+-37.7,-63.17,Argentina,0.75,1,,Darregueira,Operativo
+-38.859972,-60.079972,Argentina,0.75,1,,Claromeco,Operativo
+-38.929972,-69.209972,Argentina,0.4,1,,Parque eolico Cutral co,Operativo
+-45.929972,-67.579972,Argentina,0.4,1,,Rada Tilly,Operativo
+-37.329972,-59.14,Argentina,0.4,1,,Tandil,Operativo
+-38.60425,-58.79047,Argentina,0.25,11,,Parque Eolico Necochea,Operativo
+-30.188667,-69.283028,Argentina,0.2,1,,Veladero,Operativo
+-18.374721,-63.117696,Bolivia,54,15,,Parque Eolico El Dorado,En construccion
+-17.811585,-62.830811,Bolivia,39.6,11,,Parque Eolico San Julian,En construccion
+-17.632664,-65.276431,Bolivia,24,8,,Proyecto Eolico De Energia Renovable Qollpana Fase Ii,Operativo
+-17.524137,-63.130927,Bolivia,14.4,4,,Parque Eolico Warnes,En construccion
+-17.629296,-65.283101,Bolivia,3,2,,Proyecto Eolico De Energia Renovable Qollpana Fase I,Operativo
+-4.623278,-37.688444,Brazil,NA,NA,,Ventos de Horizonte,Operativo
+-6.25,-34.479972,Brazil,NA,NA,,Seatwirl - Crest,NA
+-3.252361,-39.2525,Brazil,29 900,13,,Santos Energia (Sao Cristovao),Operativo
+-7.36475,-40.565333,Brazil,29 700,11,,Santo Amaro do Piaui,Operativo
+-5.534778,-35.815056,Brazil,29 700,11,,Santa Maria copel (Complexo Brisa Potiguar - Potiguar 2 - Ventos de Santo Uriel),Operativo
+-4.765944,-37.291417,Brazil,29 400,14,,Santo Inacio III,Operativo
+-3.252361,-39.2525,Brazil,27 600,12,,Santos Energia (Santo Antonio de Padua),Operativo
+-4.747556,-37.3075,Brazil,23 100,11,,Santo Inacio IV,Operativo
+-3.246944,-39.260222,Brazil,16 100,7,,Santos Energia (Sao Jorge),Operativo
+-30.48,-50.049972,Brazil,6507,NA,,Ventos Do Sul,Planificado
+-22.329972,-40.92,Brazil,5008,NA,,Ventos Do Atlntico,Planificado
+-29.859972,-49.759972,Brazil,3000,NA,,aguas Claras,Planificado
+-21.879972,-40.59,Brazil,3000,NA,,Maravilha,Planificado
+-22.649972,-41.479972,Brazil,2820,NA,,Ventos Fluminenses,Planificado
+-4.94,-35.859972,Brazil,2484,NA,,Ventos Potiguares,Operativo
+-21.559972,-40.679972,Brazil,2330,NA,,Aracatu I,Planificado
+-21.37,-40.63,Brazil,2330,NA,,Aracatu II,Planificado
+-22.079972,-40.64,Brazil,2160,NA,,Au,Planificado
+-4.889972,-36.02,Brazil,2011,NA,,Marai,Planificado
+-4.969972,-35.67,Brazil,1835,NA,,Alisios Potiguares,Planificado
+-21.289972,-40.689972,Brazil,1440,NA,,Votu Winds (o Espirito Santo),Planificado
+-2.7,-41.479972,Brazil,1395,NA,,Palmas Do Mar,Planificado
+-30.019972,-49.869972,Brazil,1245,NA,,Ventos Litorneos,Planificado
+-2.77,-41.06,Brazil,1200,NA,,Camocim,Planificado
+-10.44202226,-40.46165762,Brazil,1038,NA,,Complexo Rio do Vento,En construccion
+-2.77,-41.539972,Brazil,999,NA,,Vento Tupi,Planificado
+-2.959972,-39.649972,Brazil,720,NA,,Asa Branca 1 - CEMAB 1,Planificado
+-7.28207638,-40.45628468,Brazil,660,NA,,Complexo Salitre,Planificado
+-6.508410698,-36.34575427,Brazil,660,NA,,Complexo Picui,Planificado
+-8.71592499,-41.42087958,Brazil,653.55,230,,Lagoa dos Ventos,Operativo
+-5.80942547,-36.23400574,Brazil,632.4,NA,,Complexo Ventos de So Ricardo,Planificado
+-4.969972,-35.689972,Brazil,624,NA,,Pedra Grande,Planificado
+-11.32945525,-38.80453795,Brazil,582.8,NA,,Complexo Tucano,Planificado
+-3.58,-38.609972,Brazil,576,NA,,Ceara BI - Energia,Planificado
+-9.03966164,-41.75274866,Brazil,566.5,103,,Complexo Oitis,En construccion
+-11.420806,-42.16825,Brazil,518,91,,Stakraft - Ventos de Santa Eugenia,Planificado
+-5.86945397,-36.13757046,Brazil,504,NA,,Ventos de Santa Leia,Planificado
+-6.99685254,-36.89395118,Brazil,471,NA,,Complexo Chafariz,En construccion
+-10.9562976,-42.56218063,Brazil,465,NA,,Complexo Ventos de So Vitor,En construccion
+-5.51854552,-36.22985297,Brazil,434,NA,,Conjunto Santo Agostinho,Planificado
+-14.6949261,-42.63128267,Brazil,420,NA,,Complexo Serra das Almas,Planificado
+-14.12959332,-42.55965544,Brazil,386.1,230,,Complexo Alto Serto II,Operativo
+-10.67947732,-41.5206307,Brazil,360,NA,,Complexo Umburanas,Operativo
+-10.32267124,-40.43672213,Brazil,344,82,,Folha Larga Norte,Operativo
+-5.49238364,-36.25531276,Brazil,319.2,NA,,Complexo Monte Verde,Planificado
+-14.165043,-42.488247,Brazil,294.4,184,,Complexo Alto Serto I,Operativo
+-5.12714462,-37.03678143,Brazil,291,NA,,Ventos Serra do Mel I e II,Operativo
+-5.104682,-36.023721,Brazil,256.4,78,,So Fernando,Operativo
+-7.02674981,-36.74294326,Brazil,242,NA,,Serra do Serido,Planificado
+-11.066677,-41.328388,Brazil,223,95,,Complexo Serra da Babilnia,Operativo
+-8.0125,-40.690444,Brazil,215,49,,Ventos do Piaui (o Voltorantin) Parte 2,En construccion
+-33.53570277,-53.30120436,Brazil,207,69,,Santa Vitoria do Palmar (12 partes Aura Mangueira IV Vi VII XI XII XIII XV XVII Aura Mirim II IV VI VIII),Operativo
+-5.18127369,-35.78058945,Brazil,206,49,,Cumaru,Operativo
+-8.00310577,-40.61146999,Brazil,205.9,98,,Complexo Ventos do Piaui I,Operativo
+-3.30767441,-39.39025422,Brazil,205,49,,Serrote,Operativo
+-7.706,-40.906417,Brazil,195.5,85,,Ventos do Araripe (8 partes Ventos de Santo Augusto II VI VII VIII Ventos de Santo Estevo I Ventos de So Virgilio I Ventos do Santo Onofre IV),Operativo
+-8.68413507,-41.62373545,Brazil,195,65,,Complexo Lagoa do Barro (7 partes),Operativo
+-10.69043933,-41.20533502,Brazil,192,NA,,Pedra Pintada I - IV,Planificado
+-5.2431668,-35.89882636,Brazil,188.5,90,,Santa Clara I II III IV V y VI,Operativo
+-8.79690443,-36.73376938,Brazil,182,107,,Ventos de Santa Brigida,Operativo
+-5.67592083,-36.10175167,Brazil,180.6,NA,,Complexo JerEUAalem,En construccion
+-5.10540384,-35.90172351,Brazil,180.6,86,,Complexo Cutia,Operativo
+-5.37436111,-35.86825,Brazil,174,109,,Complexo Morro dos Ventos (I II III IV IX VI),Operativo
+-11.58741408,-41.22852865,Brazil,172,86,,Morro do Chapeu (6 fases),Operativo
+-11.163778,-42.670639,Brazil,170.5,58,,Assurua (7 partes),Operativo
+-5.07267646,-35.888,Brazil,170,106,,Ventos Potiguares,Operativo
+-10.379889,-41.618667,Brazil,160,NA,,Fazenda Floresta,Operativo
+-10.379694,-41.618583,Brazil,160,NA,,Fazenda Belmonte,Operativo
+-10.317722,-41.526139,Brazil,160,NA,,Fazenda Melancia,Operativo
+-10.330083,-41.434694,Brazil,160,NA,,Fazenda Alegre,Operativo
+-5.361155,-36.472255,Brazil,159.6,NA,,Complexo Afonso Bezerra,En construccion
+-13.47775445,-42.57797775,Brazil,159.2,NA,,Complexo Tanque Novo,Planificado
+-5.91373216,-36.15622061,Brazil,155.4,NA,,Santa Rosa e Mundo Novo,En construccion
+-5.12430556,-36.38330556,Brazil,151.8,92,,Alegria (fases I y II),Operativo
+-10.47361786,-40.52396426,Brazil,151,36,,Folha Larga Sul,Operativo
+-5.273013,-35.867511,Brazil,150,75,,Complexo Renascena (I II III IV V o Eurus),Operativo
+-5.52300494,-35.42852864,Brazil,145.8,54,,Complexo do Riacho,Operativo
+-8.91557238,-36.77560354,Brazil,142,80,,Complexo Serra das Vacas,Operativo
+-3.87952688,-41.15337075,Brazil,141,77,,Complexo Ventos de Tiangua (Ventos do Parazinho Tiangua Norte),Operativo
+-10.95819775,-41.23343433,Brazil,137,NA,,Babilnia,Operativo
+-3.36994474,-39.26209818,Brazil,136,65,,Complexo Faisa (5 partes),Operativo
+-11.115278,-42.669889,Brazil,132.5,NA,,Laranjeiras I II III IX V,Operativo
+-6.02493709,-36.51203738,Brazil,132,64,,Complexo Echo 2,Operativo
+-4.432056,-37.847194,Brazil,123,41,,Dos ventos (partes I a V: Fatima Jandaia Jandaia I San Januario Sao Clemente),Operativo
+-7.952306,-40.561278,Brazil,123,28,,Ventos do Piaui (o Voltorantin) Parte 1,En construccion
+-3.27065252,-39.39626156,Brazil,121.8,NA,,Complexo Serra do Mato,En construccion
+-5.342078,-36.039595,Brazil,120,60,,Baixa do Feijo,Operativo
+-30.32652811,-50.32337885,Brazil,120,40,,Complexo Atlntica,Operativo
+-5.35434917,-35.93354673,Brazil,115,56,,Complexo Campos dos Ventos (I II II y IV),Operativo
+-2.721,-42.541778,Brazil,108,NA,,Delta (5 I 5 II 6 I 6 II),Operativo
+-5.125972,-35.640917,Brazil,108,NA,,So Miguel do Gostoso,Operativo
+-5.32567041,-35.73408378,Brazil,105,NA,,Aventura II - V,Operativo
+-2.917508017,-41.03143526,Brazil,105,50,,Praia Formosa,Operativo
+-5.17395459,-36.3023717,Brazil,104,52,,Mangue Seco (I II III V),Operativo
+-5.13275004,-37.02206593,Brazil,101,NA,,Complexo Echo 3,Operativo
+-10.10808644,-38.75524695,Brazil,99,NA,,Canudos,Planificado
+-9.84970469,-41.05651947,Brazil,98.7,26,,Complexo Sento Se II (2 partes Morro Branco I Mussamb,Operativo
+-5.085554,-37.074243,Brazil,97,NA,,Complexo Echo 6,En construccion
+-12.340912,-42.337188,Brazil,95.2,57,,Complexo Brotas de Macaubas (Macaubas Novo Horizonte y  Seabras),Operativo
+-5.11060381,-35.92790604,Brazil,94,NA,,Complexo Eolico So Bento,Operativo
+-5.28818687,-37.12987212,Brazil,93.5,NA,,Potiguar B,Operativo
+-4.98766654,-36.92874962,Brazil,93,31,,Complexo VamCruz,Operativo
+-5.252722,-36.071806,Brazil,92.3,NA,,Caiarado Norte,En construccion
+-9.86384384,-41.10417464,Brazil,90,NA,,Complexo Sento Se I,Operativo
+-14.46886215,-42.58355855,Brazil,90,45,,Caetite (1 2 y 3),Operativo
+-13.968833,-41.550611,Brazil,90,45,,Cristalndia I II III,Operativo
+-11.793699,-41.397274,Brazil,89.7,39,,Cristal,Operativo
+-8.0065,-40.637833,Brazil,88.2,NA,,Ventos de So Vicente 9-11,Operativo
+-5.41830211,-35.98613113,Brazil,88,38,,Complexo Echo 1,Operativo
+-3.93213177,-41.02664628,Brazil,86.1,NA,,Complexo Bons Ventos (5 partes),Operativo
+-5.49281996,-36.00362986,Brazil,85,41,,Complexo Echo 4,Operativo
+-11.434639,-42.508028,Brazil,85,34,,Capoeiras I II III,Operativo
+-9.065,-38.129972,Brazil,80,34,,Fontes Dos Ventos,Operativo
+-5.422111,-35.852056,Brazil,78.2,34,,Macacos,Operativo
+-5.09730598,-37.10533935,Brazil,76,NA,,Complexo Echo 7,Operativo
+-3.02740911,-39.62090699,Brazil,75.6,28,,Complexo Amontada (Ilha Grande o Amontada III Riberao o Amontada II),Operativo
+-5.033389,-36.964722,Brazil,75,25,,Vila Para I II III,Operativo
+-30.073972,-50.187944,Brazil,71.3,31,,Elebras Cidreira 1 (o Tramandai),Operativo
+-4.562722,-37.769083,Brazil,69.3,33,,Pitombeira (Energia dos Ventos) 3 partes,Operativo
+-5.12202,-36.476592,Brazil,68.47,41,,Miassaba 3,Operativo
+-14.45136197,-42.65047171,Brazil,68,NA,,Complexo Pindai I,Operativo
+-14.392944,-42.618528,Brazil,66,33,,Guirapa,Operativo
+-3.096108,-39.600813,Brazil,65.1,39,,Complexo Icarai,Operativo
+-5.062611,-36.050083,Brazil,63,NA,,So Miguel I II III,Operativo
+-5.121215,-36.163266,Brazil,60.1,36,,Rei dos Ventos 3,Operativo
+-10.632361,-40.685861,Brazil,60,30,,Formoso I II (o Formosa Complex),Operativo
+-4.950444,-36.993278,Brazil,60,20,,Carcara 1 y 2,Operativo
+-30.26484803,-50.78338279,Brazil,59.2,22,,Pontal (3 partes),Operativo
+-5.22620707,-35.78523117,Brazil,58.8,NA,,Complexo Eolico So Benedito,Operativo
+-4.46705037,-37.75771695,Brazil,58.8,32,,Canoa Quebrada,Operativo
+-10.5066865,-41.48676691,Brazil,58.75,NA,,Complexo Sento Se III,Operativo
+-5.102972,-36.191472,Brazil,58.4,35,,Rei dos Ventos 1,Operativo
+-5.226194,-35.785222,Brazil,57.4,14,,Ventos de So Benedito (partes I y II),Operativo
+-5.29366049,-35.78931672,Brazil,56.7,NA,,Complexo So Benedito,Operativo
+-5.433116,-35.890719,Brazil,56.5,24,,Modelo,Operativo
+-13.91798451,-42.62044581,Brazil,56.4,24,,Curva dos Ventos,Operativo
+-3.06602273,-39.59692932,Brazil,54.6,26,,Complexo Icaraizinho,Operativo
+-14.141472,-42.478333,Brazil,54.4,32,,Caetite A B y C,Operativo
+-5.53873532,-35.9957913,Brazil,53,24,,Complexo Echo 5,Operativo
+-29.942111,-50.297583,Brazil,50,NA,,Sangradouro,Operativo
+-29.969583,-50.290194,Brazil,50,25,,Osorio (o Ventos do Sul),Operativo
+-29.999639,-50.289694,Brazil,50,25,,Los Indios 1,Operativo
+-4.560508041,-37.76995674,Brazil,50,24,,Bons Ventos (Complexo parte 1),Operativo
+-5.32,-35.38,Brazil,49.6,62,,Rio do Fogo (RN 15),Operativo
+-9.886889,-41.120694,Brazil,48.5,NA,,Baraunas XV,En construccion
+-2.997778,-39.7425,Brazil,48.3,23,,Pedra Cheirosa I-II,Operativo
+-12.024194,-41.497944,Brazil,47.7,9,,Ventos da Bahia XXVII,Operativo
+-12.130861,-41.291417,Brazil,47.7,9,,Ventos da Bahia XIII,Operativo
+-12.130861,-41.291417,Brazil,47.7,9,,Ventos da Bahia XXIII,Operativo
+-11.134972,-42.653472,Brazil,47.5,19,,Curral de Pedras I II,Operativo
+-33.717361,-53.416694,Brazil,46,23,,Minuano I y II,Operativo
+-30.447806,-50.409861,Brazil,45.3,21,,Fazenda Rosario 1 2 y 3 (omplejo Palmares),Operativo
+-2.852667,-39.976889,Brazil,42,28,,Volta do Rio,Operativo
+-3.433861,-38.989389,Brazil,42,21,,Dunas de Paracuru,Operativo
+-9.886889,-41.120694,Brazil,41.5,NA,,Baraunas IV,En construccion
+-3.259667,-39.281583,Brazil,37.8,14,,Santa Mnica (Ceara) parte Cacimbas I,Operativo
+-6.046278,-36.555111,Brazil,36,18,,Macambira I II,Operativo
+-10.811111,-36.931528,Brazil,34.5,23,,Barra dos Coqueiros,Operativo
+-5.337306,-36.110889,Brazil,32.9,15,,Aroeira  ,Operativo
+-5.411444,-36.08375,Brazil,32.9,15,,Umbuzeiros,Operativo
+-9.886889,-41.120694,Brazil,32.9,14,,Baraunas I,Operativo
+-9.847639,-41.053722,Brazil,32.9,14,,Banda do Couro,Operativo
+-5.38275,-36.008778,Brazil,32,20,,Asa Branca V (Complexo Asa Branca),Operativo
+-5.359611,-35.998694,Brazil,32,20,,Asa Branca VI (Complexo Asa Branca),Operativo
+-5.329056,-35.991583,Brazil,32,20,,Asa Branca IV (Complexo Asa Branca),Operativo
+-5.281194,-35.980417,Brazil,32,20,,Asa Branca VIII (Complexo Asa Branca),Operativo
+-5.252833,-35.942972,Brazil,32,20,,Asa Branca VII (Complexo Asa Branca),Operativo
+-12.130861,-41.291417,Brazil,31.8,6,,Ventos da Bahia XIV,Operativo
+-4.505861,-37.764583,Brazil,31.5,15,,Enacel,Operativo
+-6.884806,-36.824917,Brazil,31.5,15,,Lagoa 1 (Complejo Santa Luzia),Operativo
+-6.852778,-36.795806,Brazil,31.5,15,,Lagoa 2 (Complejo Santa Luzia),Operativo
+-6.902917,-36.76425,Brazil,31.5,15,,Canoas (Complejo Santa Luzia),Operativo
+-14.391111,-42.593917,Brazil,31.4,17,,Inhambu,Operativo
+-3.521528,-38.902639,Brazil,31.1,11,,Taiba (o Andorinha),Operativo
+-9.886889,-41.120694,Brazil,31,NA,,Baraunas XX,En construccion
+-11.974722,-41.522111,Brazil,30.8,NA,,Ventos da Bahia III,Operativo
+-2.848889,-41.688028,Brazil,30.8,14,,Porto do Delta,Operativo
+-30.018556,-50.335361,Brazil,30.5,13,,Los Indios 2,Operativo
+-13.860889,-42.657472,Brazil,30.4,19,,Igapor,Operativo
+-14.163861,-42.600972,Brazil,30.4,19,,Rio Verde,Operativo
+-6.053528,-36.455556,Brazil,30,NA,,Santana I,Operativo
+-26.591417,-51.810333,Brazil,30,20,,Salto (agua Doce),Operativo
+-26.586333,-51.754611,Brazil,30,20,,Aquibat (complejo eolico Agua doce),Operativo
+-26.599889,-51.726444,Brazil,30,20,,Cruz Alta (o agua Doce),Operativo
+-28.446556,-49.608028,Brazil,30,20,,Rio do Ouro,Operativo
+-28.419447,-49.574304,Brazil,30,20,,Bom Jardim,Operativo
+-28.449778,-49.57425,Brazil,30,20,,Pulpito,Operativo
+-2.891056,-39.980528,Brazil,30,20,,Buriti,Operativo
+-2.916056,-39.954833,Brazil,30,20,,Cajucoco,Operativo
+-5.39725,-35.874861,Brazil,30,19,,Eurus III (o Complejo Eurus),Operativo
+-5.365111,-35.861833,Brazil,30,19,,Eurus I (o Complejo Eurus),Operativo
+-30.840611,-55.724889,Brazil,30,15,,Cerro Chato I (o Coxilha Negra V),Operativo
+-30.804944,-55.707806,Brazil,30,15,,Cerro Chato III (o Coxilha Negra VII),Operativo
+-30.912972,-55.696972,Brazil,30,15,,Cerro Chato (o Capao do Ingls),Operativo
+-30.848944,-55.695583,Brazil,30,15,,Cerro Chato II (o Coxilha Negra VI),Operativo
+-33.664694,-53.416417,Brazil,30,15,,Chui IV,Operativo
+-14.419694,-42.629528,Brazil,30,15,,Coqueirinho (o Guirapa),Operativo
+-2.83425,-41.734778,Brazil,30,15,,CGE Delta 1 (Porto Salgado),Operativo
+-11.85725,-41.47375,Brazil,30,15,,Damascena (o Serra Azul II),Operativo
+-11.835194,-41.467611,Brazil,30,15,,Dois Riachos (o Serra Azul I),Operativo
+-9.863833,-41.104167,Brazil,30,15,,Sete Gameleiras,Operativo
+-9.874667,-41.093,Brazil,30,15,,Sao Pedro do Lago,Operativo
+-10.065778,-40.980917,Brazil,30,15,,Delfina IV,Operativo
+-10.0575,-40.978667,Brazil,30,15,,Delfina I,Operativo
+-10.036944,-40.958611,Brazil,30,15,,Delfina II,Operativo
+-10.029222,-40.951944,Brazil,30,15,,Delfina VI,Operativo
+-10.004917,-40.933778,Brazil,30,15,,Delfina III,Operativo
+-10.022861,-40.928361,Brazil,30,15,,Delfina V,Operativo
+-7.510889,-40.734417,Brazil,30,15,,Ventos de Santa Joana XIV (Complexo Chapada do Piaui I II III),Operativo
+-7.597667,-40.732472,Brazil,30,15,,Ventos de Santa Joana VIII (Complexo Chapada do Piaui I II III),Operativo
+-7.594583,-40.730333,Brazil,30,15,,Ventos de Santo Onofre (parte II),Operativo
+-7.555,-40.725667,Brazil,30,15,,Ventos de Santo Onofre (parte III),Operativo
+-7.740917,-40.724333,Brazil,30,15,,Ventos de Santo Onofre (parte IV),Operativo
+-7.569667,-40.703167,Brazil,30,15,,Ventos de Santa Joana II (Parte 1) (Complexo Chapada do Piaui I II III),Operativo
+-10.606083,-40.654472,Brazil,30,15,,Ventos de Guaras I (Formosa complex),Operativo
+-10.58325,-40.637444,Brazil,30,15,,Vento de Anorinha (Formosa complex),Operativo
+-10.584124,-40.613722,Brazil,30,15,,Ventos de Morrinhos (Formosa complex),Operativo
+-10.556667,-40.568667,Brazil,30,15,,Ventos do Sertao (Formosa complex),Operativo
+-3.425389,-39.024056,Brazil,30,15,,Catabentos Paracuru II,Operativo
+-6.056139,-36.552806,Brazil,30,15,,Calango 3 (Complejo eolico Calango),Operativo
+-6.034917,-36.547944,Brazil,30,15,,Calango 1 (Complejo eolico Calango),Operativo
+-6.023389,-36.489389,Brazil,30,15,,Calango 2 (Complejo eolico Calango),Operativo
+-6.03025,-36.487972,Brazil,30,15,,Calango 5 (Complejo eolico Calango),Operativo
+-6.019611,-36.47225,Brazil,30,15,,Calango 4 (Complejo eolico Calango),Operativo
+-6.000528,-36.449806,Brazil,30,15,,Calango 6 (Complejo eolico Calango),Operativo
+-5.371194,-36.090333,Brazil,30,15,,Jerico,Operativo
+-5.051139,-35.968028,Brazil,30,15,,Dreen Olho D agua,Operativo
+-5.391917,-35.833056,Brazil,30,15,,Eurus II (o Complejo Eurus),Operativo
+-5.233694,-35.789917,Brazil,30,15,,Ventos de Santo Dimas,Operativo
+-30.291889,-50.335,Brazil,30,10,,Atlantica IV,Operativo
+-30.326528,-50.323361,Brazil,30,10,,Atlantica II,Operativo
+-30.318778,-50.316083,Brazil,30,10,,Atlantica I,Operativo
+-30.302528,-50.312306,Brazil,30,10,,Atlantica III,Operativo
+-9.874583,-41.095694,Brazil,30,10,,Pedra Branca,Operativo
+-3.623083,-40.996,Brazil,30,10,,Ventos de Santa Rosa,Operativo
+-9.514,-40.888056,Brazil,30,10,,Pedra do Reino I,Operativo
+-2.948139,-39.901139,Brazil,30,10,,Itarema IX,Operativo
+-4.966444,-37.034639,Brazil,30,10,,Terral (BR),Operativo
+-29.983722,-50.258222,Brazil,29.9,13,,Osorio 3 (o Ventos do Litoral),Operativo
+-11.861556,-41.415639,Brazil,29.9,13,,Esperana (o Serra Azul IV),Operativo
+-11.72475,-41.37375,Brazil,29.9,13,,Primavera,Operativo
+-11.664,-41.363056,Brazil,29.9,13,,So Judas,Operativo
+-7.791694,-40.728028,Brazil,29.9,13,,Ventos de So Virgilio 02,Operativo
+-3.194861,-39.373389,Brazil,29.9,13,,Trairi (o Munda),Operativo
+-3.196611,-39.369722,Brazil,29.9,13,,Trairi (o Fleixeiras),Operativo
+-3.274028,-39.219806,Brazil,29.9,13,,Trairi (o Guajiru),Operativo
+-7.303389,-40.536333,Brazil,29.7,NA,,Ventos de Santa Barbara,Operativo
+-7.304694,-40.53,Brazil,29.7,NA,,Ventos de Santa Angelina,Operativo
+-32.419194,-52.374028,Brazil,29.7,11,,Vento Aragano I (Corredor do Senandes I),Operativo
+-32.38325,-52.354194,Brazil,29.7,11,,Corredor do Senandes IV,Operativo
+-10.502889,-41.540083,Brazil,29.7,11,,Campo Largo III,Operativo
+-10.489778,-41.511528,Brazil,29.7,11,,Campo Largo IV,Operativo
+-10.522917,-41.493611,Brazil,29.7,11,,Campo Largo VII,Operativo
+-10.465444,-41.493444,Brazil,29.7,11,,Campo Largo I,Operativo
+-10.420278,-41.478639,Brazil,29.7,11,,Campo Largo II,Operativo
+-10.420278,-41.478639,Brazil,29.7,11,,Campo Largo XVIII,Operativo
+-10.440778,-41.467583,Brazil,29.7,11,,Campo Largo XVI,Operativo
+-10.449528,-41.448056,Brazil,29.7,11,,Campo Largo XXI,Operativo
+-10.489083,-41.434444,Brazil,29.7,11,,Campo Largo XV,Operativo
+-10.422944,-41.4285,Brazil,29.7,11,,Campo Largo V,Operativo
+-10.421139,-41.395722,Brazil,29.7,11,,Campo Largo VI,Operativo
+-7.344472,-40.590361,Brazil,29.7,11,,Ventos de Santo Albano,Operativo
+-7.329694,-40.589694,Brazil,29.7,11,,Ventos de Santa Regina,Operativo
+-7.342806,-40.580667,Brazil,29.7,11,,Ventos de Santo Adriano,Operativo
+-7.306944,-40.554972,Brazil,29.7,11,,Ventos de Santa Edwiges,Operativo
+-7.3,-40.554167,Brazil,29.7,11,,Ventos de Santa Fatima,Operativo
+-3.2895,-39.299722,Brazil,29.7,11,,Ouro Verde (Santa Monica II),Operativo
+-3.260861,-39.297889,Brazil,29.7,11,,Estrela,Operativo
+-3.269694,-39.268472,Brazil,29.7,11,,Trairi II,Operativo
+-5.472056,-35.916139,Brazil,29.7,11,,Santa Helena (Potiguar 2),Operativo
+-7.372333,-40.707167,Brazil,29.6,32,,Ventos de Santo Augusto III IV V,Operativo
+-7.482944,-40.799778,Brazil,29.6,16,,Ventos de Santa Joana XI (Complexo Chapada do Piaui I II III),Operativo
+-7.4275,-40.748194,Brazil,29.6,16,,Ventos de Santa Joana II (Parte 2) (Complexo Chapada do Piaui I II III),Operativo
+-7.526583,-40.744194,Brazil,29.6,16,,Ventos de Santa Joana VI (Complexo Chapada do Piaui I II III),Operativo
+-7.451639,-40.744111,Brazil,29.6,16,,Ventos de Santa Joana IX (Complexo Chapada do Piaui I II III),Operativo
+-7.410333,-40.710861,Brazil,29.6,16,,Ventos de Santa Joana XIII (Complexo Chapada do Piaui I II III),Operativo
+-7.439361,-40.7095,Brazil,29.6,16,,Ventos de Santa Joana X (Complexo Chapada do Piaui I II III),Operativo
+-10.0257,-40.846172,Brazil,29.4,NA,,ZEUS II,Operativo
+-5.279806,-35.800556,Brazil,29.4,14,,Santa Mnica (Rio Grande do Norte),Operativo
+-7.458806,-40.723667,Brazil,28.9,17,,Ventos de Santa Joana XVI (Complexo Chapada do Piaui I II III),Operativo
+-7.370861,-40.674167,Brazil,28.9,17,,Ventos de Santa Joana V (Complexo Chapada do Piaui I II III),Operativo
+-7.423639,-40.671528,Brazil,28.9,17,,Ventos de Santa Joana I (Complexo Chapada do Piaui I II III),Operativo
+-7.413,-40.668556,Brazil,28.9,17,,Ventos de Santa Joana VII (Complexo Chapada do Piaui I II III),Operativo
+-8.710722,-36.768667,Brazil,28.9,17,,So Clemente V,Operativo
+-8.766139,-36.749194,Brazil,28.9,17,,So Clemente IV,Operativo
+-8.7105,-36.734722,Brazil,28.9,17,,So Clemente II,Operativo
+-8.752111,-36.709111,Brazil,28.9,17,,So Clemente III,Operativo
+-8.724611,-36.699111,Brazil,28.9,17,,So Clemente I,Operativo
+-13.89825,-42.675917,Brazil,28.8,18,,Nossa Senhora de Conceicao,Operativo
+-14.219028,-42.642056,Brazil,28.8,18,,Guirapa,Operativo
+-11.987667,-41.525833,Brazil,28.6,NA,,Ventos da Bahia I,Operativo
+-11.986167,-41.491417,Brazil,28.6,NA,,Ventos da Bahia IX,Operativo
+-2.813583,-40.264444,Brazil,28.5,19,,Praia do Morgado,Operativo
+-4.354333,-37.900972,Brazil,28.5,19,,Praias de Parajuru,Operativo
+-5.381444,-35.804944,Brazil,28.2,NA,,Aventura I,Operativo
+-2.852583,-40.066222,Brazil,28,NA,,Catabentos Acarau I,Operativo
+-21.570333,-41.078056,Brazil,28,17,,Gargau,Operativo
+-6.101361,-36.578667,Brazil,28,17,,Serra Santana II,Operativo
+-6.024917,-36.512028,Brazil,28,17,,Serra Santana III,Operativo
+-9.314778,-41.117472,Brazil,28,14,,Casa Nova III,Operativo
+-9.270528,-41.050083,Brazil,28,14,,Casa Nova II,Operativo
+-8.012083,-40.631639,Brazil,28,14,,Ventos de So Vicente 8,Operativo
+-8.021361,-40.61775,Brazil,28,14,,Ventos de So Vicente 12,Operativo
+-8.003083,-40.611444,Brazil,28,14,,Ventos de So Vicente 13,Operativo
+-7.989528,-40.583417,Brazil,28,14,,Ventos de So Vicente 14,Operativo
+-6.128361,-36.716833,Brazil,28,14,,Lanchinha,Operativo
+-5.538722,-35.995778,Brazil,28,14,,Boa Esperana I,Operativo
+-5.303417,-35.383694,Brazil,28,14,,Arizona I,Operativo
+-7.477778,-40.767389,Brazil,27.7,15,,Ventos de Santa Joana XV (Complexo Chapada do Piaui I II III),Operativo
+-7.485972,-40.754028,Brazil,27.7,15,,Ventos de Santa Joana XII (Complexo Chapada do Piaui I II III),Operativo
+-2.666972,-42.642306,Brazil,27.6,13,,CGE Delta 3 VIII,Operativo
+-29.957056,-50.254167,Brazil,27.6,12,,Osorio 2 (o Ventos do Litoral),Operativo
+-2.618917,-42.657583,Brazil,27.6,12,,CGE Delta 3 VII,Operativo
+-2.835167,-41.709694,Brazil,27.6,12,,CGE Delta 3 I,Operativo
+-2.835167,-41.709694,Brazil,27.6,12,,CGE Delta 3 III,Operativo
+-2.835167,-41.709694,Brazil,27.6,12,,CGE Delta 3 IV,Operativo
+-2.835167,-41.709694,Brazil,27.6,12,,CGE Delta 3 V,Operativo
+-2.835167,-41.709694,Brazil,27.6,12,,CGE Delta 3 VI,Operativo
+-11.883722,-41.456833,Brazil,27.6,12,,Manioba (o Serra Azul),Operativo
+-7.791694,-40.728028,Brazil,27.6,12,,Ventos de Santo Onofre (parte I),Operativo
+-10.958194,-41.233417,Brazil,27.3,NA,,Ventos do So Gabriel,Operativo
+-10.939694,-41.228889,Brazil,27.3,NA,,Ventos da Santa Beatriz,Operativo
+-11.006333,-41.227111,Brazil,27.3,NA,,Ventos de Santa Emilia,Operativo
+-10.913,-41.221417,Brazil,27.3,NA,,Ventos de Santa Aparecida,Operativo
+-10.976111,-41.219944,Brazil,27.3,NA,,Ventos da Santa Aurora,Operativo
+-5.065889,-36.013778,Brazil,27.3,13,,GE Maria Helena,Operativo
+-3.219667,-39.333778,Brazil,27.3,13,,Embuaca,Operativo
+-5.074167,-37.015583,Brazil,27.3,13,,Vila Acre I,Operativo
+-4.977278,-36.905583,Brazil,27.3,13,,Areia Branca (2 fases),Operativo
+-5.062611,-36.050083,Brazil,27.3,13,,Pariso dos Ventos do NE,Operativo
+-5.065889,-36.013778,Brazil,27.3,13,,GE Jangada,Operativo
+-5.08275,-35.955167,Brazil,27.3,13,,Esperana do Nordeste,Operativo
+-5.064306,-35.901389,Brazil,27.3,13,,Potiguar,Operativo
+-13.987944,-42.639361,Brazil,27.2,17,,Planaltina,Operativo
+-7.451333,-40.686361,Brazil,27.2,16,,Ventos de Santa Joana IV (Complexo Chapada do Piaui I II III),Operativo
+-2.889806,-39.980389,Brazil,27,18,,Coqueiros,Operativo
+-32.410028,-52.355278,Brazil,27,10,,Corredor do Senandes III,Operativo
+-5.228611,-35.880806,Brazil,27,10,,Asa Branca II Complexo Brisa Potiguar),Operativo
+-5.255056,-35.843639,Brazil,27,10,,Asa Branca III Complexo Brisa Potiguar),Operativo
+-5.232333,-35.826583,Brazil,27,10,,Asa Branca I Complexo Brisa Potiguar),Operativo
+-5.262222,-35.814444,Brazil,27,10,,Eurus IV (o Complexo Brisa Potiguar),Operativo
+-2.922528,-39.840639,Brazil,27,9,,Itarema I,Operativo
+-29.777944,-50.074722,Brazil,27,9,,Xangri-La,Operativo
+-12.032417,-41.456528,Brazil,27,9,,Ventos de Bahia VIII,Operativo
+-5.14025,-35.693028,Brazil,27,9,,Reduto (o So Miguel do Gostoso - Unio dos Ventos),Operativo
+-5.151528,-35.6635,Brazil,27,9,,Carnaubas,Operativo
+-5.136639,-35.657389,Brazil,27,9,,So Joo,Operativo
+-29.928944,-50.284694,Brazil,26,13,,Sangradouro 2 (o Ventos da Lagoa),Operativo
+-5.479917,-36.004389,Brazil,26,13,,Cabeo Preto V,Operativo
+-5.492611,-36.003056,Brazil,26,13,,Cabeo Vermelho,Operativo
+-5.418278,-35.986111,Brazil,26,13,,Cabeo Preto III,Operativo
+-5.203611,-35.790944,Brazil,26,13,,So Domingos,Operativo
+-9.871194,-41.063694,Brazil,25.8,11,,Baraunas II,Operativo
+-4.194417,-38.078806,Brazil,25.6,32,,Beberibe,Operativo
+-30.07905905,-50.17205613,Brazil,25.6,16,,Pajeu do Vento,Operativo
+-4.5705,-37.690694,Brazil,25.5,17,,Quixaba,Operativo
+-8.780667,-36.758361,Brazil,25.5,15,,So Clemente VI,Operativo
+-7.728306,-40.658389,Brazil,25.3,49,,Ventos de Santo Estevo II III IV V,Operativo
+-2.835167,-41.709694,Brazil,25.3,11,,CGE Delta 3 II,Operativo
+-3.247528,-39.291528,Brazil,25.3,11,,Trairi (o Trairi),Operativo
+-30.779833,-55.658528,Brazil,25.2,12,,Ibirapuit I,Operativo
+-3.43825,-38.962944,Brazil,25.2,12,,Paracuru,Operativo
+-4.121528,-38.156083,Brazil,25.2,12,,Foz do Rio Choro,Operativo
+-3.1,-39.670972,Brazil,24.3,9,,Boca do Corrego,Operativo
+-12.024194,-41.497944,Brazil,24.2,NA,,Ventos de Bahia XVIII,Operativo
+-6.04275,-36.463972,Brazil,24,NA,,Santana II,Operativo
+-14.211639,-42.659639,Brazil,24,15,,Pindai,Operativo
+-14.184167,-42.655444,Brazil,24,15,,Licinio de Almeida,Operativo
+-30.797528,-55.664556,Brazil,24,12,,Cerro Chato VI,Operativo
+-33.6565,-53.393556,Brazil,24,12,,Chui I,Operativo
+-29.944333,-50.319111,Brazil,24,12,,Sangradouro 3 (o Ventos da Lagoa),Operativo
+-12.015556,-41.44625,Brazil,24,8,,Ventos de Bahia II,Operativo
+-2.928806,-39.875722,Brazil,24,8,,Itarema VI,Operativo
+-2.921111,-39.861639,Brazil,24,8,,Itarema II,Operativo
+-4.988861,-36.963972,Brazil,24,8,,Vila Amazonas V,Operativo
+-8.749861,-36.751306,Brazil,23.8,14,,So Clemente VII,Operativo
+-29.982333,-50.326972,Brazil,23.5,10,,Los Indios 3,Operativo
+-3.842806,-41.178056,Brazil,23.4,15,,Vento Formoso,Operativo
+-4.74725,-37.324333,Brazil,23.1,11,,Garrote,Operativo
+-4.786083,-37.301917,Brazil,23.1,11,,So Raimundo,Operativo
+-4.974333,-36.921389,Brazil,23.1,11,,Mar e Terra,Operativo
+-3.955861,-41.130972,Brazil,23,11,,Malhadinha,Operativo
+-1.676194,-44.819556,Brazil,22.5,NA,,Sistema Hibrido de Gerao de Energia Eletrica da Ilha dos Lenois,Operativo
+-26.617139,-51.567889,Brazil,22.5,15,,Amparo (complejo eolico Agua doce),Operativo
+-33.668111,-53.421833,Brazil,22,11,,Chui V,Operativo
+-33.659417,-53.400278,Brazil,22,11,,Chui II,Operativo
+-3.222311,-52.2315,Brazil,22,11,,Cassino I,Operativo
+-32.203944,-52.222111,Brazil,22,11,,Cassino III,Operativo
+-14.452722,-42.641139,Brazil,22,11,,Caititu (o Guirapa I),Operativo
+-14.292028,-42.585861,Brazil,22,11,,Corrupio (o Guirapa I),Operativo
+-2.809639,-41.786611,Brazil,22,11,,Testa Branca I,Operativo
+-4.952917,-37.125556,Brazil,22,11,,Eolica Sao Cristovao,Operativo
+-32.216667,-52.214917,Brazil,22,10,,Cassino II,Operativo
+-2.798917,-41.792528,Brazil,22,10,,Testa Branca III,Operativo
+-32.391083,-52.336333,Brazil,21.6,8,,Corredor do Senandes II,Operativo
+-14.254028,-42.549028,Brazil,21.6,8,,Vellozia,Operativo
+-33.596028,-53.367667,Brazil,21.5,15,,Hermenegildo (Verace 36),Operativo
+-14.492556,-42.686361,Brazil,21.15,9,,Ararihna azul (o Pindai III),Operativo
+-5.097639,-35.910083,Brazil,21,10,,Dreen Guajiru,Operativo
+-2.981194,-39.892778,Brazil,21,7,,Itarema VIII,Operativo
+-2.966472,-39.879472,Brazil,21,7,,Itarema V,Operativo
+-2.953972,-39.877361,Brazil,21,7,,Itarema VII,Operativo
+-2.929139,-39.875639,Brazil,21,7,,Itarema IV,Operativo
+-14.206083,-42.616194,Brazil,20.8,13,,Guanambi,Operativo
+-7.791694,-40.728028,Brazil,20.7,9,,Ventos de So Virgilio 03,Operativo
+-8.710528,-36.776667,Brazil,20.4,12,,So Clemente VIII,Operativo
+-9.514,-40.888056,Brazil,20,NA,,Pedra do Reino IV,Operativo
+-2.828806,-41.757444,Brazil,20,10,,CGE Delta 1 (Porto das Barcas),Operativo
+-2.830556,-41.719444,Brazil,20,10,,CGE Delta 1 (Delta do Parnaiba),Operativo
+-4.943806,-36.967111,Brazil,20,10,,MEL 02,Operativo
+-6.00425,-36.43525,Brazil,20,10,,Pelado,Operativo
+-5.097,-36.020472,Brazil,20,10,,Farol,Operativo
+-5.442333,-35.962111,Brazil,19.8,12,,Cabeo Preto I,Operativo
+-5.448361,-35.956083,Brazil,19.8,12,,Cabeo Preto IV,Operativo
+-33.638722,-53.309361,Brazil,19.6,13,,Hermenegildo (Verace 24),Operativo
+-14.157333,-42.636361,Brazil,19,NA,,Serro do Salto,Operativo
+-6.056611,-36.580611,Brazil,19,NA,,Serra Santana I,Operativo
+-8.287806,-35.597611,Brazil,18.9,NA,,Santa Catarina (BR),Operativo
+-3.533861,-38.880917,Brazil,18.9,9,,Colonia,Operativo
+-3.252722,-39.280917,Brazil,18.9,7,,Cacimba,Operativo
+-3.269694,-39.268472,Brazil,18.9,7,,Santa Mnica (Ceara),Operativo
+-14.292028,-42.585861,Brazil,18.8,8,,Corrupio (o Pindai II),Operativo
+-2.826472,-41.712944,Brazil,18,20,,Pedra do Sal,Operativo
+-5.464333,-35.93525,Brazil,18,9,,Cabeo Preto VI,Operativo
+-9.503389,-40.880472,Brazil,18,6,,Pedra do Reino II,Operativo
+-33.618167,-53.357222,Brazil,17.9,12,,Hermenegildo (Verace 29),Operativo
+-33.609917,-53.344083,Brazil,17.9,12,,Hermenegildo (Verace 30),Operativo
+-11.090361,-42.683,Brazil,17.5,NA,,Diamante III,Operativo
+-11.1065,-42.671472,Brazil,17.5,NA,,Diamante II,Operativo
+-33.6875,-53.380972,Brazil,17,10,,Chui IX,Operativo
+-3.521528,-38.902639,Brazil,16.8,8,,Taiba (o Aguia),Operativo
+-14.06397,-42.486,Brazil,16.4,7,,Inhambu II (o Pindai I),Operativo
+-5.487278,-35.900083,Brazil,16.2,NA,,Ventos de Santo Uriel,Operativo
+-13.826778,-42.704333,Brazil,16.2,10,,Barbatimo,Operativo
+-5.442139,-35.923306,Brazil,16.2,6,,Santa Maria (Potiguar 2),Operativo
+-33.654278,-53.323694,Brazil,16,8,,Hermenegildo (Verace 27),Operativo
+-14.492556,-42.686361,Brazil,16,8,,Angical (o Guirapa I),Operativo
+-14.492556,-42.686361,Brazil,16,8,,Tamandua Mirim (o Guirapa I),Operativo
+-14.338111,-42.591083,Brazil,16,8,,Teiu (o Guirapa I),Operativo
+-5.494306,-35.98825,Brazil,16,8,,Cabeo Vermelho II,Operativo
+-3.5,-38.84,Brazil,15,NA,,Pecem Mingyang Pilot,Planificado
+-2.947556,-39.836861,Brazil,15,5,,Itarema III,Operativo
+-3.521528,-38.902639,Brazil,14.7,7,,Taiba (o  Albatroz),Operativo
+-5.277917,-35.780889,Brazil,14.7,7,,Ventos de So Martinho (o Complexo Campo dos Ventos e So Benedito),Operativo
+-5.083417,-36.406694,Brazil,14.4,9,,Miassaba 2,Operativo
+-5.093083,-36.356056,Brazil,14.4,9,,Aratua,Operativo
+-33.562472,-53.352611,Brazil,14.3,6,,Hermenegildo (Verace 34),Operativo
+-33.653472,-53.304056,Brazil,14,8,,Hermenegildo (Verace 26),Operativo
+-5.110472,-35.928111,Brazil,14,7,,Green Boa Vista,Operativo
+-4.6575,-37.614167,Brazil,12.6,6,,Ubatuba,Operativo
+-33.585056,-53.35925,Brazil,12.5,10,,Hermenegildo (Verace 35),Operativo
+-33.634028,-53.353361,Brazil,12.5,7,,Hermenegildo (Verace 28),Operativo
+-30.795944,-55.756694,Brazil,12,6,,Cerro Chato V,Operativo
+-30.795833,-55.756222,Brazil,12,6,,Cerro Chato IV,Operativo
+-14.41275,-42.659917,Brazil,12,6,,Acau,Operativo
+-11.975639,-41.546083,Brazil,12,4,,Ventos de Bahia IV (Parte 2),Operativo
+-11.984306,-41.444528,Brazil,12,4,,Ventos de Bahia IV (Parte 1),Operativo
+-13.881528,-42.664583,Brazil,11.2,7,,Ilheus,Operativo
+-26.615306,-51.740222,Brazil,10.5,7,,Campo Belo (agua Doce),Operativo
+-6.498806,-34.971667,Brazil,10.4,13,,Millenium (Mataraca),Operativo
+-3.87,-38.38,Brazil,10,20,,Prainha,Operativo
+-30.889056,-55.6975,Brazil,10,5,,Cerro Chato (o Coxilha Seca),Operativo
+-14.185917,-42.647889,Brazil,9.6,6,,Candiba,Operativo
+-30.451667,-50.389306,Brazil,9.2,4,, Palmares (complejo Palmares),Operativo
+-8.667389,-41.630778,Brazil,9,NA,,Aura Queimada Nova 3 (creo que es Complexo Lagoa do Barro),Operativo
+-26.583528,-51.697111,Brazil,9,15,,agua Doce (complejo eolico Agua doce),Operativo
+-33.607139,-53.324806,Brazil,8.9,5,,Hermenegildo (Verace 31),Operativo
+-9.986306,-40.910722,Brazil,8,NA,,Delfina VII,Operativo
+-5.232917,-35.93175,Brazil,8,NA,,Eurus VI (o Santa Clara VI),Operativo
+-13.865444,-42.67225,Brazil,8,5,,Porto Seguro,Operativo
+-14.186278,-42.591361,Brazil,8,5,,Alvorada,Operativo
+-30.795833,-55.756222,Brazil,8,4,,Cerro dos Trindade,Operativo
+-30.871611,-55.668333,Brazil,8,4,,Cerro Chato (o Galpoes),Operativo
+-33.639833,-53.325056,Brazil,7,5,,Hermenegildo (Verace 25),Operativo
+-6.209889,-35.363806,Brazil,6,NA,,Ventos do Brejo A-6,Operativo
+-26.588944,-51.742639,Brazil,6,4,,Cascata (agua Doce),Operativo
+-3.5,-38.939972,Brazil,5,10,,Taiba (o  Sao Gonalo ne Amarante),Operativo
+-8.268222,-35.596806,Brazil,5,3,,Gravata Fruitrade,Operativo
+-8.278972,-35.598694,Brazil,4.9,3,,Mandacaru,Operativo
+-8.287806,-35.597611,Brazil,4.9,3,,Santa Maria (Gravata),Operativo
+-7.494056,-35.495111,Brazil,4.9,3,,Piraua,Operativo
+-8.17875,-35.398056,Brazil,4.9,3,,Xavante,Operativo
+-26.568917,-51.672611,Brazil,4.8,8,,Horizonte,Operativo
+-6.58225,-34.978444,Brazil,4.8,6,,Mataraca (o Vale dos Ventos),Operativo
+-6.574667,-34.976028,Brazil,4.8,6,,Presidente (o Vale dos Ventos),Operativo
+-6.581389,-34.974639,Brazil,4.8,6,,Coelhos IV (o Vale dos Ventos),Operativo
+-6.557833,-34.972528,Brazil,4.8,6,,Camurim (o Vale dos Ventos),Operativo
+-6.575778,-34.971806,Brazil,4.8,6,,Coelhos I (o Vale dos Ventos),Operativo
+-6.549389,-34.9705,Brazil,4.8,6,,Albatroz (o Vale dos Ventos),Operativo
+-6.556944,-34.969444,Brazil,4.8,6,,Caravela,Operativo
+-6.570083,-34.967361,Brazil,4.8,6,,Coelhos II (o Vale dos Ventos),Operativo
+-6.556583,-34.966417,Brazil,4.8,6,,Coelhos III (o Vale dos Ventos),Operativo
+-4.043028,-38.296917,Brazil,4.5,NA,,Enerce Pindoretama,Operativo
+-6.567083,-35.013417,Brazil,4.5,3,,Vitoria,Operativo
+-4.590306,-37.639,Brazil,4.4,2,,Lagoa do Mato,Operativo
+-26.625667,-51.675833,Brazil,4,NA,,Quinta de Gomariz,Operativo
+-10.270917,-41.719472,Brazil,4,2,,Pedra Branca,Operativo
+-12.99,-38.429972,Brazil,3.4,NA,,Nova Energia,Planificado
+-28.455833,-49.600528,Brazil,3,2,,Santo Antnio,NA
+-30.451667,-50.389306,Brazil,2.5,5,,Palmas,Operativo
+-3.703444,-38.474028,Brazil,2.4,4,,Mucuripe,Operativo
+-14.445194,-42.691694,Brazil,2.3,1,,Teiu 3 (Pindai IV),Operativo
+-14.391111,-42.593917,Brazil,2.2,NA,,IMT,Operativo
+-28.479056,-49.039611,Brazil,2.1,NA,,Tubaro P&D,Operativo
+-8.333556,-35.005028,Brazil,2,1,,Caminho da Praia,Operativo
+-5.089972,-36.549972,Brazil,1.8,3,,Macau,Operativo
+-38.013479,-72.263967,Chile,273,77,,Malleco,Operativo
+-22.49137415,-68.85709938,Chile,250,36,,Calama,En construccion
+-20.24093897,-69.430962,Chile,240,NA,,Ckani,En construccion
+-41.058667,-72.999889,Chile,240,51,,Puelche Sur,En construccion
+-28.97633243,-71.46680103,Chile,205.69,49,,Cabo Leones II,Operativo
+-28.8817,-71.4675,Chile,189.4,56,,San Juan,Operativo
+-23.763472,-69.860889,Chile,185,44,,Cerro Tigre,Operativo
+-37.68443856,-72.65332019,Chile,180,61,,San Gabriel,En construccion
+-28.8605,-71.4256,Chile,167.56,50,,Sarco,Operativo
+-22.516889,-69.087806,Chile,157,NA,,Tchamma,Operativo
+-23.773306,-69.974056,Chile,156,32,,Llanos del Vientos,En construccion
+-39.975028,-72.964833,Chile,148.5,33,,Caman,En construccion
+-37.745222,-72.525722,Chile,144,21,,Renaico II (2 fases),En construccion
+-41.23501645,-73.13748427,Chile,126.6,43,,Aurora,Operativo
+-28.9279,-71.4425,Chile,117.51,55,,Cabo Leones,Operativo
+-30.588806,-71.6995,Chile,115,50,,El Arrayan,Operativo
+-30.5793,-71.6981,Chile,114.99,50,,El Arrayan,Operativo
+-22.87042633,-68.96235775,Chile,112,56,,Sierra Gorda Este,Operativo
+-31.0299,-71.6571,Chile,107.7,22,,Los Cururos (pacifico),Operativo
+-25.0595,-69.8485,Chile,99,33,,Taltal,Operativo
+-30.8734,-71.5915,Chile,89.55,45,,Talinay Oriente,Operativo
+-22.4695087,-68.81247985,Chile,88.9,45,,Valle De Los Vientos,Operativo
+-37.724444,-72.575889,Chile,88,44,,Renaico,Operativo
+-37.310944,-72.337028,Chile,86.4,18,,Alena,En construccion
+-31.1347,-71.6331,Chile,81.19,32,,Punta Sierra,Operativo
+-37.67007611,-72.63298473,Chile,81,28,,Tolpan Sur,Operativo
+-28.97638875,-71.46373258,Chile,78.1,NA,,Cabo Leones III,Operativo
+-42.2812,-73.9188,Chile,64.99,13,,San Pedro II,Operativo
+-30.8631,-71.5984,Chile,60.1,32,,Talinay Poniente,Operativo
+-31.3136,-71.6011,Chile,60,40,,Canela II,Operativo
+-37.522389,-72.379528,Chile,58.8,14,,Lomas del Duqueco,En construccion
+-34.152861,-71.606139,Chile,49.5,11,,La Estrella,En construccion
+-31.0773,-71.6578,Chile,47.52,24,,Monte Redondo,Operativo
+-31.3256,-71.611,Chile,45.54,23,,Totoral,Operativo
+-31.2345,-71.6404,Chile,44.7,15,,Punta Palmeras,Operativo
+-42.2704,-73.9401,Chile,36,18,,San Pedro,Operativo
+-37.586111,-72.534833,Chile,34.5,23,,Negrete,Operativo
+-37.5107,-72.4937,Chile,32.5,22,,Cuel,Operativo
+-37.5264,-72.5016,Chile,23.85,12,,Los Buenos Aires,Operativo
+-29.3662,-71.0585,Chile,20,10,,Punta Colorada,Operativo
+-31.2883,-71.6023,Chile,18,11,,Canela,Operativo
+-34.0427,-71.6223,Chile,10.5,5,,Ucuquer II,Operativo
+-52.936111,-70.82875,Chile,10.3,3,,Vientos Patagonicos,Operativo
+-26.29347,-69.62776,Chile,10.26,5,,La Esperanza,Operativo
+-37.6861,-73.6491,Chile,9.34,9,,Lebu,Operativo
+-36.793806,-73.100139,Chile,9,3,,Punta Chome,Operativo
+-37.26986,-72.55493,Chile,9,3,,El Maiten,Operativo
+-37.74287,-73.57367,Chile,8.98,3,,Raki-Huajache ,Operativo
+-37.58944,-72.41999,Chile,8.9,3,,El Nogal,Operativo
+-37.25710788,-73.42552515,Chile,8.35,4,,Las Penas,Operativo
+-37.54051,-73.59223,Chile,8.1,3,,El Arrebol,Operativo
+-34.0448,-71.6108,Chile,7.07,4,,Ucuquer,Operativo
+-37.74398259,-73.57244193,Chile,6,2,,Raki-Huajache ,Operativo
+-37.6825,-73.64195,Chile,5.15,3,,Lebu III,Operativo
+-52.949444,-70.82875,Chile,2.55,3,,Cabo Negro,Operativo
+-45.526,-72.1046,Chile,2,3,,Alto Baguales,Operativo
+-45.525583,-72.101778,Chile,2,2,,Alto Baguales II,Operativo
+-45.025333,-71.968167,Chile,1.8,3,,Cerro Coihue,Operativo
+-45.025278,-71.967194,Chile,1.6,6,,El Toqui,Operativo
+11.622242,-72.078845,Colombia,280,NA,,Futura - Parque Beta,En construccion
+11.494167,-72.179655,Colombia,212,NA,,Futura - Parque Alpha,En construccion
+11.712204,-71.720309,Colombia,20,10,,Parque Eolico Guajira I,Operativo
+12.228582,-72.036239,Colombia,19.5,15,,Jepirachi 1 - 15,Operativo
+10.3005296,-85.5540357,Costa Rica,60,9,,Cacao,Operativo
+10.8687949,-85.4427377,Costa Rica,50,25,,Orosi,Operativo
+10.7268944,-85.2732926,Costa Rica,49.5,55,,La Gloria,Operativo
+10.4422702,-84.9199567,Costa Rica,49.5,33,,Chiripa,Operativo
+10.5277693,-84.9882452,Costa Rica,24,57,,Tilaran (PESA),Operativo
+10.587722,-85.035583,Costa Rica,24,32,,Viento del Arenal,Operativo
+10.706,-85.234028,Costa Rica,21,7,,Mogote,Operativo
+10.4877571,-85.0018028,Costa Rica,21,7,,Tilawind,Operativo
+10.5416806,-85.0032804,Costa Rica,20,30,,Tejona,Operativo
+10.5410281,-84.9910776,Costa Rica,20,10,,Altamira,Operativo
+10.5215,-84.982139,Costa Rica,20,10,,Campos azules,Operativo
+9.8920423,-84.2008747,Costa Rica,15.3,17,,Valle Central,Operativo
+10.8738945,-85.4708687,Costa Rica,14,10,,Vientos de La Perla,Operativo
+10.4435338,-84.9211151,Costa Rica,14,10,,Vientos de Miramar,Operativo
+9.7784923,-83.9961586,Costa Rica,12,15,,Los Santos,Operativo
+10.49946,-84.9754282,Costa Rica,12,4,,Vientos del Este,Operativo
+10.682528,-85.088333,Costa Rica,9,3,,Rio Naranjo,En construccion
+10.505778,-84.967556,Costa Rica,6.7,9,,Aeroenergia,Operativo
+21.2622643,-76.3994623,Cuba,101,54,,La Herradura I-II,En construccion
+21.166833,-76.1485,Cuba,5.1,6,,Gibara,Operativo
+21.148389,-76.132278,Cuba,4.5,6,,Gibara,Operativo
+21.609972,-82.019972,Cuba,1.6,6,,Los Canarreos,Operativo
+22.269972,-78.599972,Cuba,0.45,2,,Isla Turiguano,Operativo
+-4.043149,-79.237852,Ecuador,100,NA,,Villonaco Ii Y Iii,En construccion
+-3.359165,-79.386318,Ecuador,50,16,,Minas De Huascachaca,En construccion
+-4.001403,-79.259942,Ecuador,16.5,11,,Central Eolica Villonaco,Operativo
+-0.892067,-89.498407,Ecuador,2.4,3,,San Cristobal,Operativo
+-0.441835,-90.26597,Ecuador,2.25,3,,Baltra,Operativo
+14.3692604,-89.4887177,El Salvador,50,15,,Ventus,En construccion
+14.3625764,-90.5552464,Guatemala,52.8,16,,San Antonio El Sitio,Operativo
+14.4370189,-89.5665532,Guatemala,31.5,15,,Las Cumbres de Agua Blanca,Operativo
+14.3912162,-90.6660341,Guatemala,23.1,7,,Viento Blanco,Operativo
+13.9286826,-87.2455861,Honduras,126,63,,Cerro de Hula I-II,Operativo
+13.6315595,-87.2227758,Honduras,99,NA,,Yauyupe San Lucas,En construccion
+13.4217929,-86.9281487,Honduras,63.4,25,,San Marcos de Colon,Operativo
+13.3817299,-86.9584032,Honduras,46.2,14,,Chinchayote,Operativo
+16.380028,-86.401361,Honduras,3.9,26,,Ocen View,Operativo
+24.551042,-99.362957,Mexico,868.5,NA,,Los Huizaches,Planificado
+25.7092554,-98.4575469,Mexico,424,123,,Reynosa I-V,Operativo
+29.604828,-101.3493634,Mexico,400,NA,,La Carabina I-II,Planificado
+16.4846345,-95.0216534,Mexico,396,132,,Energia Eolica del Sur,Operativo
+23.3478249,-98.8322248,Mexico,306,NA,,Mesa La Paz,En construccion
+16.5483352,-94.83257632,Mexico,306,204,,Oaxaca II. III y IV,Operativo
+16.563566,-94.891067,Mexico,252,NA,,Gunaa Sicaru,Planificado
+25.7651045,-98.7526528,Mexico,252,84,,Ventika I y II,Operativo
+25.765028,-98.750462,Mexico,252,84,,Ventika I II,Operativo
+16.5475433,-94.83258717,Mexico,250.5,167,,Eurus (I y II),Operativo
+21.2066911,-89.1439764,Mexico,250,NA,,Cansahcab,Planificado
+26.2212526,-100.5437951,Mexico,249,100,,El Mezquite,Operativo
+25.5450616,-98.6070025,Mexico,244,83,,Dolores,Operativo
+16.4430253,-94.9436863,Mexico,234,117,,Bii Hioxio,Operativo
+18.8000231,-97.3853074,Mexico,221,84,,PIER IV,Operativo
+25.6411091,-101.5304811,Mexico,199.5,95,,Coahuila,Operativo
+24.5282082,-99.2172245,Mexico,198,NA,,San Carlos,En construccion
+25.8052258,-98.2593566,Mexico,183,61,,El Cortijo,Operativo
+25.7319639,-98.6848513,Mexico,168,42,,Fenicias,Operativo
+16.493611,-94.946667,Mexico,164,82,,Bii Stinu,Operativo
+29.632334,-101.722467,Mexico,162,NA,,Amistad IV,En construccion
+32.558845,-116.054182,Mexico,155,47,,Energia Sierra Juarez,Operativo
+21.3579059,-88.4772502,Mexico,153,NA,,Panaba 1A,Planificado
+21.2296658,-89.2480969,Mexico,151.2,NA,,Sinanche I-II,Planificado
+23.3177807,-98.9780222,Mexico,148.5,45,,Tres Mesas I-II,Operativo
+25.6914096,-98.2327222,Mexico,138.6,NA,,Santa Cruz,En construccion
+23.733242,-98.870315,Mexico,135.3,30,,La Mesa (3 fases),Operativo
+22.7249597,-102.6525056,Mexico,130,65,,La Bufa,Operativo
+21.8751695,-101.8515102,Mexico,129,43,,Palo Alto,Operativo
+16.4996455,-94.8360638,Mexico,127.5,69,,Piedra Larga II,Operativo
+23.7159161,-98.909483,Mexico,118,33,,Vicente Guerrero,Operativo
+25.7600278,-98.5520137,Mexico,117,27,,Delaro,En construccion
+29.608371,-101.702756,Mexico,108,NA,,Amistad III,En construccion
+32.56525,-116.063667,Mexico,108,26,,Sierra Juarez II (2 fases),En construccion
+21.5928414,-101.2834565,Mexico,105,50,,Santiago,Operativo
+29.732852,-101.64761,Mexico,103,NA,,Amistad II,Operativo
+16.5792836,-94.8130254,Mexico,103,120,,La Venta III,Operativo
+25.89958,-98.4616766,Mexico,103,30,,Salitrillos,Operativo
+16.5455474,-94.9548795,Mexico,102,105,,Parques Ecologicos de Mexico,Operativo
+16.5674149,-94.7278792,Mexico,102,51,,Oaxaca I,Operativo
+16.6140563,-95.0065539,Mexico,102,34,,Sureste I,Operativo
+16.535894,-94.961236,Mexico,101.9,105,,La Ventosa (3 fases),Operativo
+25.638195,-97.505215,Mexico,101.75,NA,,Los Molinos,Planificado
+23.401257,-98.97688,Mexico,100.8,24,,Tres Mesas IV,Operativo
+23.8793105,-101.5187661,Mexico,100,50,,Vientos del Altiplano,Operativo
+23.3435684,-101.3433586,Mexico,100,50,,Dominica II,Operativo
+23.3351693,-101.3349657,Mexico,100,50,,Dominica I,Operativo
+29.801829,-101.38,Mexico,100,,,Amistad I,Operativo
+21.3579059,-88.4772502,Mexico,99,NA,,Panaba 1B,Planificado
+25.620806,-101.551889,Mexico,96,20,,Los Canones,En construccion
+16.5090271,-94.8325877,Mexico,90,45,,Piedra Larga,Operativo
+20.8107426,-89.5014583,Mexico,90,36,,Peninsula,Operativo
+20.8107426,-89.5014583,Mexico,84,36,,Tizimin,Operativo
+16.577321,-94.8244803,Mexico,83.3,98,,La Venta II,Operativo
+22.0412381,-101.4438843,Mexico,76,NA,,Mesa de Morenos Cerritos,En construccion
+16.5110915,-94.9581312,Mexico,74,37,,Bii Nee Stipa II (El Retiro),Operativo
+32.5714273,-116.0662866,Mexico,72,NA,,La Rumorosa II,En construccion
+16.529444,-94.985,Mexico,70,NA,,Bii Nee Stipa III (Zopiloapan),Operativo
+16.511881,-94.9483807,Mexico,70,37,,Dos Arbolitos (Bii Nee Stipa IV),Operativo
+21.3602701,-88.9050019,Mexico,70,28,,Dzilam,Operativo
+21.218672,-88.673705,Mexico,68,NA,,Kabil I,Planificado
+16.581667,-94.948806,Mexico,67.5,27,,La Mata-La Ventosa,Operativo
+18.8557837,-97.390321,Mexico,66,33,,Parque Industrial de Energia Renovable (PIER) II,Operativo
+21.715167,-101.755964,Mexico,64,21,,Chinampas,En construccion
+21.2601208,-100.6454861,Mexico,63,NA,,Eolica de Guanajuato,En construccion
+24.0781875,-110.6026331,Mexico,56,20,,Coromuel,Operativo
+25.9218718,-98.3357628,Mexico,54,30,,El Porvenir,Operativo
+21.8096855,-101.6800193,Mexico,54,28,,Los Altos,Operativo
+25.5136011,-102.0313922,Mexico,50.4,NA,,Parras,En construccion
+16.5588733,-94.044382,Mexico,50,33,,Ingenio,Operativo
+16.5958861,-95.016191,Mexico,50,20,,Fuerza Eolica del Istmo,Operativo
+23.390195,-98.992126,Mexico,50,15,,Tres Mesas III,Operativo
+23.802921,-98.832665,Mexico,49.5,15,,Ciudad Victoria,Operativo
+31.295417,-115.425167,Mexico,30.4,8,,San Matias,Operativo
+20.346361,-100.348528,Mexico,30,15,,San Pedro,Operativo
+16.586444,-94.997389,Mexico,30,12,,Fuerza Eolica del Istmo II,Operativo
+16.182556,-93.937333,Mexico,28.8,16,,Arriaga,Operativo
+16.510639,-94.968889,Mexico,26.3,31,,Bii Nee Stipa I (Stipa Nayaa),Operativo
+25.684583,-100.523556,Mexico,22,8,,Santa Catarina,Operativo
+16.161308,-93.944016,Mexico,21,10,,San Jacinto,Operativo
+16.446396,-95.113756,Mexico,15,5,,Granja Sedena,Operativo
+32.496944,-116.089528,Mexico,2,5,,La Rumorosa I,Operativo
+16.580528,-94.818806,Mexico,1.1,5,,La Venta I,Operativo
+27.976306,-114.067306,Mexico,0.6,1,,Guerrero Negro,Operativo
+16.545528,-94.953389,Mexico,0.3,1,,Centro Regional de Tecnologia Eolica,Operativo
+11.4051349,-85.8045944,Nicaragua,102.3,22,,Alba-Rivas,Operativo
+11.325031,-85.7094538,Nicaragua,63,30,,Amayo I-II,Operativo
+11.3670705,-85.7517461,Nicaragua,44,22,,Eolo,Operativo
+11.3864608,-85.7902634,Nicaragua,39.6,22,,La Fe-San Martin,Operativo
+8.4663683,-80.3821001,Panama,215,86,,Laudato Si,Operativo
+8.6288901,-80.3472387,Panama,66,20,,Toabre,En construccion
+8.4025296,-80.3940867,Panama,55,22,,Penonome,Operativo
+-22.02826474,-60.60980179,Paraguay,0.4,2,,Primer Parque Solar Eolico,Operativo
+-15.041775,-75.049364,Peru,132.3,42,,Central Eolica Wayra I (Parque Nazca),Operativo
+-15.067413,-75.047974,Peru,108,NA,,Central Eolica Wayra Extension,En construccion
+-15.395154,-75.083365,Peru,97.15,33,,Parque Eolico Tres Hermanas,Operativo
+-7.563628,-79.477407,Peru,80,45,,Central Eolica Cupisnique,Operativo
+-15.411784,-75.068363,Peru,32,12,,Central Eolica Parque Eolico Marcona,Operativo
+-4.570925,-81.199957,Peru,30,17,,Central Eolica Talara,Operativo
+-6.453916,-78.985035,Peru,18.4,7,,Central Eolica Duna,En construccion
+-6.452215,-78.972341,Peru,18.4,7,,Central Eolica Huambos,En construccion
+-8.439972,-78.87,Peru,0.25,1,,Mal Abrigo,Operativo
+17.978167,-66.382556,Puerto Rico,75.9,33,,Santa Isabela (parte 1),Operativo
+18.189639,-65.698944,Puerto Rico,26,13,,Punta Lima,En construccion
+17.978167,-66.382556,Puerto Rico,25.3,11,,Santa Isabela (parte 29,Operativo
+18.459,-66.138889,Puerto Rico,0.5,2,,Bacardi,Operativo
+18.415917,-66.128861,Puerto Rico,0.275,1,,Fort Buchanan - Bayamon Municipio,Operativo
+18.231583,-65.610389,Puerto Rico,0.275,1,,Fort Buchanan - Ceiba Municipio,Operativo
+18.407,-66.116028,Puerto Rico,0.275,1,,Fort Buchanan - Guaynabo Municipio,Operativo
+19.7614355,-70.9746073,Dominican Republic,115,NA,,Puerto Plata Imbert,Operativo
+17.9007286,-71.2481073,Dominican Republic,97.8,29,,Larimar I-II,Operativo
+17.8751719,-71.291064,Dominican Republic,85,45,,Los Cocos I-II-III-IV,Operativo
+19.868183,-70.815854,Dominican Republic,50,NA,,Los Guzmancitos II,Planificado
+19.6937702,-71.222699,Dominican Republic,50,25,,Agua Clara,Operativo
+19.8767606,-70.8345248,Dominican Republic,50,25,,El Guanillo,Operativo
+19.8767606,-70.8345248,Dominican Republic,48,16,,Los Guzmancitos,Operativo
+18.2641951,-70.4931233,Dominican Republic,34,17,,Matafongo,Operativo
+-34.7458,-56.5731,Uruguay,02/17/2021,9,,Parque Eolico Magdalena,Operativo
+-32.2467,-56.215,Uruguay,141.6,59,,Pampa,Operativo
+-31.15897224,-57.54458379,Uruguay,70,35,,Parque Eolico Palomas,Operativo
+-33.8289,-56.5739,Uruguay,70,35,,Colonia Arias,Operativo
+-33.2672,-55.1021,Uruguay,70,35,,Valentines,Operativo
+-30.409,-56.6401,Uruguay,67.2,28,,Juan Pablo Terra,Operativo
+-34.3499,-57.5554,Uruguay,65.1,31,,Parque Eolico Artilleros,Operativo
+-32.6004,-56.4196,Uruguay,58.75,25,,Peralta Ii Gcee (tmb llamado Agua Leguas),Operativo
+-32.5826,-56.3946,Uruguay,58.75,25,,Peralta I Gcee (tmb llamado Agua Leguas),Operativo
+-32.28292252,-53.9222061,Uruguay,54.1,22,,Parque Eolico Cerro Grande,Operativo
+-34.395,-54.6951,Uruguay,51,17,,Parque Eolico Carape I,Operativo
+-33.6348,-56.7214,Uruguay,50,25,,Talas Del Maciel I,Operativo
+-33.605,-56.7117,Uruguay,50,25,,Talas Del Maciel II,Operativo
+-32.5701,-56.444,Uruguay,50,25,,Cuchilla Del Peralta I,Operativo
+-32.491861,-56.355139,Uruguay,50,25,,Palmatir,Operativo
+-34.5154,-54.9075,Uruguay,50,25,,Parque Eolico Maldonado (tmb llamado R del Sur),Operativo
+-34.4397,-54.8887,Uruguay,50,25,,Parque Eolico Maldonado II,Operativo
+-34.0959,-56.1026,Uruguay,50,21,,Parque Eolico Florida I,Operativo
+-32.5828,-54.2302,Uruguay,50,20,,Melowind,Operativo
+-33.8855,-56.4428,Uruguay,50,17,,Luz De Rio,Operativo
+-34.1172,-56.0892,Uruguay,49.5,15,,Parque Eolico Florida II,Operativo
+-33.8948,-56.9202,Uruguay,49.2,16,,Parque Eolico Nuevo Pastorale I,Operativo
+-34.6698,-56.8018,Uruguay,49.2,16,,Parque Eolico Kiyu,Operativo
+-34.4647,-55.3065,Uruguay,42,14,,Minas I,Operativo
+-34.4028,-54.6783,Uruguay,40,14,,Parque Eolico Carape II,Operativo
+-33.8663,-56.3405,Uruguay,20,7,,Luz De Loma,Operativo
+-34.2862,-54.04,Uruguay,18,19,,Nuevo Manantial Central 2,Operativo
+-33.8763,-56.3505,Uruguay,18,6,,Luz De Mar,Operativo
+-34.2862,-54.0603,Uruguay,14,12,,Parque Eolico Loma Alta - Central 1 (tmb Nuevo Manantial),Operativo
+-34.3783,-56.5944,Uruguay,10,5,,Parque Eolico Villa Rodriguez,Operativo
+-34.6403,-55.5541,Uruguay,10,5,,Parque Eolico Solas De Mataojo,Operativo
+-34.6481,-54.9661,Uruguay,10,5,,Caracoles 2 Del Parque Eolico Ing. Emanuele Cambilargiu,Operativo
+-34.6269,-54.9575,Uruguay,10,5,,Caracoles 1 Del Parque Eolico Ing. Emanuele Cambilargiu,Operativo
+-33.6516,-53.5755,Uruguay,10,5,,Parque Eolico 18 De Julio,Operativo
+-34.2931,-56.5275,Uruguay,9.75,5,,Parque Eolico Maria Luz,Operativo
+-34.2265,-57.3366,Uruguay,9,5,,Parque Eolico Rosario,Operativo
+-34.2805,-57.3341,Uruguay,9,5,,Parque Eolico Ventus I,Operativo
+-34.63703258,-54.61685325,Uruguay,5.5,8,,Agroland,Operativo
+-30.93836591,-55.55867177,Uruguay,3.3,1,,Parque Eolico Urufor,Operativo
+-34.686889,-56.297111,Uruguay,2.2,1,,Frigorifico Las Piedras,Operativo
+-34.6323,-56.5932,Uruguay,2,1,,Marystay,Operativo
+-34.71746769,-56.21948442,Uruguay,2,1,,Parque Eolico Corfrisa,Operativo
+-31.69716664,-55.93775559,Uruguay,1.8,1,,Parque Eolico Marfrig,Operativo
+-34.42496957,-55.18361648,Uruguay,0.15,1,,Planta Piloto,Operativo
+-34.6346,-56.5865,Uruguay,NA,4,,Parque Eolico Libertad,Operativo
+-34.2042,-55.748,Uruguay,NA,2,,Engraw,Operativo
+-33.0857,-55.1711,Uruguay,NA,2,,Parque Eolico Julieta,Operativo
+-34.6512,-56.5844,Uruguay,NA,1,,Santa Fe,Operativo
+11.808768,-70.234382,Venezuela,90.2,76,,Parque Eolico Paraguana (tmb llamado Los Taques),Operativo
+11.222001,-71.890069,Venezuela,25.2,12,,Parque Eolico La Guajira,Operativo
